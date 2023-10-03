@@ -1,1 +1,1 @@
-# @baseswapfi/sdk-core
+# @baseswapfi/default-token-list
