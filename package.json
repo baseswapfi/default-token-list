@@ -1,51 +1,21 @@
 {
   "name": "@baseswapfi/default-token-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "description": "Token list for Baseswap",
-  "module": "dist/default-token-list.esm.js",
-  "main": "dist/index.js",
-  "typings": "dist/index.d.ts",
+  "main": "build/baseswap-default.tokenlist.json",
   "files": [
-    "dist",
-    "src"
+    "build/baseswap-default.tokenlist.json"
   ],
   "publishConfig": {
     "access": "public"
   },
-  "engines": {
-    "node": ">=10"
-  },
   "scripts": {
-    "start": "tsdx watch",
-    "build": "tsdx build",
-    "test": "tsdx test",
-    "lint": "tsdx lint",
-    "size": "size-limit",
-    "analyze": "size-limit --why",
-    "prepublishOnly": "tsdx build"
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/baseswap-default.tokenlist.json",
+    "prepublishOnly": "npm run build"
   },
+  "homepage": "https://github.com/baseswapfi/default-token-list#readme",
   "devDependencies": {
-    "@size-limit/preset-small-lib": "^8.2.6",
-    "husky": "^8.0.3",
-    "size-limit": "^8.2.6",
-    "tsdx": "^0.14.1",
-    "typescript": "^5.1.6"
-  },
-  "peerDependencies": {},
-  "husky": {
-    "hooks": {
-      "pre-commit": "tsdx lint"
-    }
-  },
-  "size-limit": [
-    {
-      "path": "dist/default-token-list.cjs.production.min.js",
-      "limit": "10 KB"
-    },
-    {
-      "path": "dist/default-token-list.esm.js",
-      "limit": "10 KB"
-    }
-  ]
+    "rimraf": "^5.0.5"
+  }
 }
