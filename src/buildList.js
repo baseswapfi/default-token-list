@@ -14,7 +14,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: '',
     keywords: ['baseswap', 'default'],
-    tokens: [...base]
+    tokens: [...base.tokens]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
