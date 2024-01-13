@@ -140,7 +140,7 @@
       "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.svg"
+      "logoURI": "https://baseswap.fi/images/tokens/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b.svg"
     },
     {
       "name": "BlazeBot",
@@ -238,6 +238,13 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": ""
+    },
+    {
+      "name": "Optimism",
+      "symbol": "OP",
+      "address": "0x4F192ED4449DEB47ed769b135d75aba33256aE43",
+      "chainId": 8453,
+      "decimals": 18
     },
     {
       "name": "Wrapped Ether",
