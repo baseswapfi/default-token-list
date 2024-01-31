@@ -1,5 +1,6 @@
 const { version } = require('../package.json');
 const base = require('./tokens/base.json');
+const mode = require('./tokens/mode.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -14,7 +15,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: '',
     keywords: ['baseswap', 'default'],
-    tokens: [...base.tokens]
+    tokens: [...base.tokens, ...mode]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

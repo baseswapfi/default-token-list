@@ -1,6 +1,6 @@
 {
   "name": "@baseswapfi/default-token-list",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
   "description": "Token list for Baseswap",
   "main": "build/baseswap-default.tokenlist.json",
@@ -11,7 +11,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "npx rimraf build && mkdir -p build && node src/write.js > build/baseswap-default.tokenlist.json",
+    "build": "npx rimraf build && mkdir build && node src/write.js > build/baseswap-default.tokenlist.json",
     "prepublishOnly": "npm run build"
   },
   "homepage": "https://github.com/baseswapfi/default-token-list#readme",
