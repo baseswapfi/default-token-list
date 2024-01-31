@@ -1,0 +1,42 @@
+[
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0xce2521c2d78a6d217afdbc832c4ba1b8bc42b6af",
+    "chainId": 919,
+    "decimals": 6,
+    "logoURI": ""
+  },
+  {
+    "name": "USDT",
+    "symbol": "USDT",
+    "address": "0xe91e532044d949556e31890ed56dc5a703267639",
+    "chainId": 919,
+    "decimals": 6,
+    "logoURI": ""
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "address": "0xc102505248c36f933934d4b2d7579d962a342ebc",
+    "chainId": 919,
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "address": "0xeb72756ee12309Eae82a0deb9787e69f5b62949c",
+    "chainId": 919,
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "address": "0x22505cb4d5d10b2c848a9d75c57ea72a66066d8c",
+    "chainId": 919,
+    "decimals": 18,
+    "logoURI": ""
+  }
+]
