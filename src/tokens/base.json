@@ -16,7 +16,9 @@
       "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9.png"
+      "logoURI": "https://baseswap.fi/images/tokens/0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xE80B4F755417FB4baF4dbd23C029db3F62786523"
     },
     {
       "name": "Base X",
@@ -24,7 +26,9 @@
       "address": "0xd5046B976188EB40f6DE40fB527F89c05b323385",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0xd5046B976188EB40f6DE40fB527F89c05b323385.png"
+      "logoURI": "https://baseswap.fi/images/tokens/0xd5046B976188EB40f6DE40fB527F89c05b323385.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x7fea0384f38ef6ae79bb12295a9e10c464204f52"
     },
     {
       "name": "USD Base Coin",
@@ -56,7 +60,9 @@
       "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D.svg"
+      "logoURI": "https://baseswap.fi/images/tokens/0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D.svg",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xa2b120Cab75AEfDfAFdA6A14713349A3096EED79"
     },
     {
       "name": "Yield Farming Index",
@@ -73,7 +79,9 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "",
-      "tax": true
+      "tax": true,
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x29b3a7869E3662D00aaBD89A8ee74B2F703a6a66"
     },
     {
       "name": "Toshi",
@@ -82,7 +90,9 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "",
-      "tax": true
+      "tax": true,
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xbFC74e1De81E81B0A807469502F6662Cc238795e"
     },
     {
       "name": "Mochi",
@@ -91,7 +101,9 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "",
-      "tax": true
+      "tax": true,
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xbe09692245268B607c3029469d14bE06191A0566"
     },
     {
       "name": "Seamless",
@@ -107,7 +119,9 @@
       "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396.png"
+      "logoURI": "https://baseswap.fi/images/tokens/0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x4F993cA764E9a4Ae76d27eB488cfD252Ac909f8d"
     },
     {
       "name": "GMD Protocol",
@@ -172,7 +186,9 @@
       "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A"
     },
     {
       "name": "DAI+",
@@ -180,7 +196,8 @@
       "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "",
+      "coingeckoTokenId": "overnight-dai"
     },
     {
       "name": "Basin Protocol",
@@ -229,7 +246,8 @@
       "address": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "",
+      "coingeckoTokenId": "mimatic"
     },
     {
       "name": "BullRun",
