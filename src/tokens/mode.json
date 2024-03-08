@@ -36,7 +36,7 @@
   },
   {
     "name": "Renzo Restaked ETH",
-    "symbol": "exETH",
+    "symbol": "ezETH",
     "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
     "chainId": 34443,
     "decimals": 18,
