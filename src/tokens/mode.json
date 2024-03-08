@@ -27,14 +27,6 @@
     "coingeckoTokenId": "ethereum"
   },
   {
-    "name": "USDT",
-    "symbol": "USDT",
-    "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
-    "chainId": 34443,
-    "decimals": 6,
-    "logoURI": ""
-  },
-  {
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
@@ -42,6 +34,23 @@
     "decimals": 8,
     "logoURI": ""
   },
+  {
+    "name": "Renzo Restaked ETH",
+    "symbol": "exETH",
+    "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "name": "USDT",
+    "symbol": "USDT",
+    "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+    "chainId": 34443,
+    "decimals": 6,
+    "logoURI": ""
+  },
+
   {
     "name": "Dai Stablecoin",
     "symbol": "DAI",
