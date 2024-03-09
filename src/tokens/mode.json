@@ -10,6 +10,17 @@
     "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A"
   },
   {
+    "name": "SwapMode Escrowed Token",
+    "symbol": "xSMD",
+    "address": "0xFb68BBfaEF679C1E653b5cE271a0A383c0df6B45",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "",
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A",
+    "tradeable": false
+  },
+  {
     "name": "USDC",
     "symbol": "USDC",
     "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
