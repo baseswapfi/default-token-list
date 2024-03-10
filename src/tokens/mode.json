@@ -5,7 +5,7 @@
     "address": "0xFDa619b6d20975be80A10332cD39b9a4b0FAa8BB",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "",
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/4c3017f1cba57e728de5f65bf7b5a7fc5a2b0c7f/images/SMDLOGO.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A"
   },
@@ -15,7 +15,7 @@
     "address": "0xFb68BBfaEF679C1E653b5cE271a0A383c0df6B45",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "",
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/4c3017f1cba57e728de5f65bf7b5a7fc5a2b0c7f/images/xSMD.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A",
     "tradeable": false
@@ -26,7 +26,7 @@
     "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
     "chainId": 34443,
     "decimals": 6,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
   },
   {
     "name": "Wrapped Ether",
@@ -61,7 +61,7 @@
     "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
     "chainId": 34443,
     "decimals": 6,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
   },
 
   {
@@ -70,7 +70,7 @@
     "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
   },
   {
     "name": "Chainlink Token",
@@ -78,6 +78,6 @@
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700"
   }
 ]
