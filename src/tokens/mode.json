@@ -34,7 +34,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "",
+    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
     "coingeckoTokenId": "ethereum"
   },
   {
@@ -43,7 +43,7 @@
     "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
     "chainId": 34443,
     "decimals": 8,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579"
   },
   {
     "name": "Renzo Restaked ETH",
