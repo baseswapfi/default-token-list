@@ -51,7 +51,7 @@
     "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "",
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/37557551263ee607bfe69fac8dd6a6c75608f936/images/ezETH.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x812D54D483bF049980Af7ceB57DBf77Fa186d063"
   },
