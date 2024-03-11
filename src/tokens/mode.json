@@ -56,6 +56,24 @@
     "dexscreenPairAddress": "0x812D54D483bF049980Af7ceB57DBf77Fa186d063"
   },
   {
+    "name": "Dinero apxETH",
+    "symbol": "apxETH",
+    "address": "0xCd615270aB3a7a3A262A4E49935D002278C76b78",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33609/standard/apxETH-icon-transbg_72dpi.png?1702512027",
+    "coingeckoTokenId": "dinero-apxeth"
+  },
+  {
+    "name": "Dinero Staked ETH",
+    "symbol": "pxETH",
+    "address": "0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/33608/standard/pxETH-icon-transbg_72dpi.png?1702512024",
+    "coingeckoTokenId": "dinero-staked-eth"
+  },
+  {
     "name": "USDT",
     "symbol": "USDT",
     "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
