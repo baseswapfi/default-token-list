@@ -77,6 +77,16 @@
       "dexscreenPairAddress": "0x29b3a7869E3662D00aaBD89A8ee74B2F703a6a66"
     },
     {
+      "name": "Dancing Wolf",
+      "symbol": "WOLF",
+      "address": "0x00ef65Dc955f05d8B9135afa6CB07B0b6061A933",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x00ef65Dc955f05d8B9135afa6CB07B0b6061A933.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xEb9ACaABb8e0b5A26B0F574380708C05456c9CA3"
+    },
+    {
       "name": "Fren Pet",
       "symbol": "FREN PET",
       "address": "0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105",
