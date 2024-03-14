@@ -62,7 +62,8 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33609/standard/apxETH-icon-transbg_72dpi.png?1702512027",
-    "coingeckoTokenId": "dinero-apxeth"
+    "coingeckoTokenId": "dinero-apxeth",
+    "tradeable": false
   },
   {
     "name": "Dinero Staked ETH",
@@ -71,7 +72,8 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/33608/standard/pxETH-icon-transbg_72dpi.png?1702512024",
-    "coingeckoTokenId": "dinero-staked-eth"
+    "coingeckoTokenId": "dinero-staked-eth",
+    "tradeable": false
   },
   {
     "name": "USDT",
