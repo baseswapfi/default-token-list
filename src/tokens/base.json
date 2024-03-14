@@ -23,7 +23,18 @@
     {
       "name": "Base X",
       "symbol": "BSX",
-      "address": "0xd5046B976188EB40f6DE40fB527F89c05b323385",
+      "address": "0xE4750593d1fC8E74b31549212899A72162f315Fa",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0xE4750593d1fC8E74b31549212899A72162f315Fa.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x7fea0384f38ef6ae79bb12295a9e10c464204f52",
+      "tradeable": false
+    },
+    {
+      "name": "Baseswap Escrowed Token",
+      "symbol": "xBSX",
+      "address": "",
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://baseswap.fi/images/tokens/0xd5046B976188EB40f6DE40fB527F89c05b323385.png",
