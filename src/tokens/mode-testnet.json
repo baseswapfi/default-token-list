@@ -38,5 +38,26 @@
     "chainId": 919,
     "decimals": 18,
     "logoURI": ""
+  },
+  {
+    "name": "SwapMode Token",
+    "symbol": "SMD",
+    "address": "0xB687282AD4Fb8897D5Cd41f3C1A54DeB4cc88625",
+    "chainId": 919,
+    "decimals": 18,
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/4c3017f1cba57e728de5f65bf7b5a7fc5a2b0c7f/images/SMDLOGO.png",
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A"
+  },
+  {
+    "name": "SwapMode Escrowed Token",
+    "symbol": "xSMD",
+    "address": "0x2ee99Be3c520B7Bd64f51641c3e7Ef28950E03B7",
+    "chainId": 919,
+    "decimals": 18,
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/4c3017f1cba57e728de5f65bf7b5a7fc5a2b0c7f/images/xSMD.png",
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A",
+    "tradeable": false
   }
 ]

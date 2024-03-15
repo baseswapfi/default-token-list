@@ -1,6 +1,6 @@
 {
   "name": "@baseswapfi/default-token-list",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "license": "MIT",
   "description": "Token list for Baseswap",
   "main": "build/baseswap-default.tokenlist.json",
