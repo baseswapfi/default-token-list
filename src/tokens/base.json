@@ -47,7 +47,7 @@
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "https://assets.coingecko.com/coins/images/31164/standard/baseusdc.jpg?1696529993"
     },
     {
       "name": "DAI Stablecoin Token",
@@ -55,7 +55,7 @@
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996"
     },
     {
       "name": "Coinbase Wrapped Staked ETH",
@@ -63,7 +63,7 @@
       "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/27008/standard/cbeth.png?1709186989",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x07CFA5Df24fB17486AF0CBf6C910F24253a674D3"
     },
@@ -73,7 +73,7 @@
       "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D.svg",
+      "logoURI": "https://assets.coingecko.com/coins/images/16786/standard/mimlogopng.png?1696516358",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xa2b120Cab75AEfDfAFdA6A14713349A3096EED79"
     },
@@ -83,7 +83,7 @@
       "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/29399/standard/l1v2_transparent.png?1696528349",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x29b3a7869E3662D00aaBD89A8ee74B2F703a6a66"
     },
@@ -93,7 +93,7 @@
       "address": "0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/33022/standard/token.png?1700274697",
       "tax": true,
       "useDexscreener": true,
       "dexscreenPairAddress": "0x29b3a7869E3662D00aaBD89A8ee74B2F703a6a66"
@@ -104,7 +104,7 @@
       "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/31126/standard/2023-08-11_13.21.24.png?1697025145",
       "tax": true,
       "useDexscreener": true,
       "dexscreenPairAddress": "0xbFC74e1De81E81B0A807469502F6662Cc238795e"
@@ -115,7 +115,7 @@
       "address": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/33083/standard/mochi200.png?1703024216",
       "tax": true,
       "useDexscreener": true,
       "dexscreenPairAddress": "0xbe09692245268B607c3029469d14bE06191A0566"
@@ -126,7 +126,7 @@
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/33480/standard/Seamless_Logo_Black_Transparent.png?1702019657",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x11E438B489e9e97e0252acd83AaA0a57AB611911"
     },
@@ -136,7 +136,7 @@
       "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/31970/standard/OVN.png?1696959174",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x4F993cA764E9a4Ae76d27eB488cfD252Ac909f8d"
     },
@@ -146,7 +146,7 @@
       "address": "0x7BC401227777F173Ff871993b198A8632741B9Bb",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x7BC401227777F173Ff871993b198A8632741B9Bb.svg",
+      "logoURI": "https://assets.coingecko.com/coins/images/33386/standard/200_200.png?1701673603",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x40523f203E61D72043dbdF15a88B4b6199f817C0"
     },
@@ -187,7 +187,7 @@
       "address": "0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad",
       "chainId": 8453,
       "decimals": 8,
-      "logoURI": "https://baseswap.fi/images/tokens/0x1a35EE4640b0A3B87705B0A4B45D227Ba60Ca2ad.svg"
+      "logoURI": "https://assets.coingecko.com/coins/images/28173/standard/wbtc-satoshi_D_3x.png?1696986732"
     },
     {
       "name": "Threshold Bitcoin",
@@ -195,7 +195,7 @@
       "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b.svg"
+      "logoURI": "https://assets.coingecko.com/coins/images/11224/standard/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155"
     },
     {
       "name": "BlazeBot",
@@ -203,7 +203,7 @@
       "address": "0x37DEfBC399e5737D53Dfb5533d9954572F5B19bf",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/31279/standard/blazebot.jpeg?1696530102",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xc54c5E7F1d46cBdA933c465D59fBecDf9aAf49Ad"
     },
@@ -270,7 +270,7 @@
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "https://assets.coingecko.com/coins/images/26476/standard/uausdc_D_3x.png?1696525548"
     },
     {
       "name": "Wrapped Ether",
@@ -297,7 +297,7 @@
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://baseswap.fi/images/tokens/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
     },
 
     {

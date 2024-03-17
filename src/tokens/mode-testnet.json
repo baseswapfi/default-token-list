@@ -5,7 +5,7 @@
     "address": "0xce2521c2d78a6d217afdbc832c4ba1b8bc42b6af",
     "chainId": 919,
     "decimals": 6,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
   },
   {
     "name": "USDT",
@@ -13,7 +13,7 @@
     "address": "0xe91e532044d949556e31890ed56dc5a703267639",
     "chainId": 919,
     "decimals": 6,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
   },
   {
     "name": "Wrapped Bitcoin",
@@ -21,7 +21,7 @@
     "address": "0xc102505248c36f933934d4b2d7579d962a342ebc",
     "chainId": 919,
     "decimals": 8,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579"
   },
   {
     "name": "Wrapped Ether",
@@ -29,7 +29,7 @@
     "address": "0xeb72756ee12309Eae82a0deb9787e69f5b62949c",
     "chainId": 919,
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880"
   },
   {
     "name": "Dai Stablecoin",
@@ -37,7 +37,7 @@
     "address": "0x22505cb4d5d10b2c848a9d75c57ea72a66066d8c",
     "chainId": 919,
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996"
   },
   {
     "name": "SwapMode Token",
@@ -45,7 +45,7 @@
     "address": "0xB687282AD4Fb8897D5Cd41f3C1A54DeB4cc88625",
     "chainId": 919,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/4c3017f1cba57e728de5f65bf7b5a7fc5a2b0c7f/images/SMDLOGO.png",
+    "logoURI": "https://assets.coingecko.com/coins/images/36014/standard/SMDPNG.png?1710326417",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A"
   },
