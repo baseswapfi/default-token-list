@@ -61,7 +61,7 @@
     "address": "0xFEBBb7f02Aec3F970591D7BeE937EfB3B07A5683",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/37557551263ee607bfe69fac8dd6a6c75608f936/images/ezETH.png",
+    "logoURI": "https://swapmode.fi/images/tokens/0xFEBBb7f02Aec3F970591D7BeE937EfB3B07A5683.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x81845f2c5c1c7B757692d175930FA8E5d7B6cF60"
   },
