@@ -66,6 +66,16 @@
     "dexscreenPairAddress": "0x81845f2c5c1c7B757692d175930FA8E5d7B6cF60"
   },
   {
+    "name": "MoChad",
+    "symbol": "MOCHAD",
+    "address": "",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "https://swapmode.fi/images/tokens/MOCHAD.png",
+    "useDexscreener": true,
+    "dexscreenPairAddress": ""
+  },
+  {
     "name": "Dinero apxETH",
     "symbol": "apxETH",
     "address": "0xCd615270aB3a7a3A262A4E49935D002278C76b78",
