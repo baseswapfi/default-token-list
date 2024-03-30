@@ -71,7 +71,7 @@
     "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://swapmode.fi/images/tokens/0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1.png"
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/898e414c81627ab57f3c41ef96f3c937be7922ed/images/MOLTEN.png"
   },
   {
     "name": "Dinero apxETH",
