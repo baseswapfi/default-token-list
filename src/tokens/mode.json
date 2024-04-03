@@ -76,6 +76,16 @@
     "dexscreenPairAddress": "0x08262cDCb559dC08d34C95D5CA989BD57f721B20"
   },
   {
+    "name": "MoChad",
+    "symbol": "MOCHAD",
+    "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/831bde68bab2af91599dc684d7049cebb876d417/images/MOCHAD.png",
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0xf927Bf4A4170f29c429Ad3b9D953E57DF3691ec9"
+  },
+  {
     "name": "Dinero apxETH",
     "symbol": "apxETH",
     "address": "0xCd615270aB3a7a3A262A4E49935D002278C76b78",
