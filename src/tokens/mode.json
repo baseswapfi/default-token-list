@@ -81,7 +81,7 @@
     "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://swapmode.fi/images/tokens/MOCHAD.png",
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/831bde68bab2af91599dc684d7049cebb876d417/images/MOCHAD.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0xf927Bf4A4170f29c429Ad3b9D953E57DF3691ec9"
   },
