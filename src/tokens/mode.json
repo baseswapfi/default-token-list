@@ -81,7 +81,7 @@
     "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/898e414c81627ab57f3c41ef96f3c937be7922ed/images/0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e.png",
+    "logoURI": "https://swapmode.fi/images/tokens/0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0xf927Bf4A4170f29c429Ad3b9D953E57DF3691ec9"
   },
