@@ -129,7 +129,9 @@
     "address": "0x80137510979822322193FC997d400D5A6C747bf7",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://swapmode.fi/images/tokens/0x80137510979822322193FC997d400D5A6C747bf7.png"
+    "logoURI": "https://swapmode.fi/images/tokens/0x80137510979822322193FC997d400D5A6C747bf7.png", 
+    "coingeckoTokenId": "stakestone-ether"
+
   }, 
   {
     "name": "Wrapped eETH",
@@ -137,6 +139,8 @@
     "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://swapmode.fi/images/tokens/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5.png"
-  }
+    "logoURI": "https://swapmode.fi/images/tokens/0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5.png", 
+    "useDexscreener": true,
+    "coingeckoTokenId": "wrapped-eeth"
+      }
 ]
