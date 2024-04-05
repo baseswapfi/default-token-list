@@ -122,12 +122,21 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996"
   },
+
   {
-    "name": "Chainlink Token",
-    "symbol": "LINK",
-    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "name": "Snakestone Ether",
+    "symbol": "STONE",
+    "address": "0x80137510979822322193FC997d400D5A6C747bf7",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700"
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/snakestone.webp"
+  }, 
+  {
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/weETH.webp"
   }
 ]
