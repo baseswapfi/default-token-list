@@ -42,6 +42,26 @@
       "tradeable": false
     },
     {
+      "name": "Boge",
+      "symbol": "BOGE",
+      "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xBF5F6359745298eE65c52A32BE5fe9FafB1B434D"
+    },
+    {
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xc9034c3E7F58003E6ae0C8438e7c8f4598d5ACAA"
+    },
+    {
       "name": "USD Base Coin",
       "symbol": "USDbC",
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
