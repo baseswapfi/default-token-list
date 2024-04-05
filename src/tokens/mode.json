@@ -129,7 +129,7 @@
     "address": "0x80137510979822322193FC997d400D5A6C747bf7",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/snakestone.png"
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/7f2af3e8217adc0dce36b18242c2fd732ed4d3a9/images/snakestone.png"
   }, 
   {
     "name": "Wrapped eETH",
@@ -137,6 +137,6 @@
     "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/weETH.png"
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/7f2af3e8217adc0dce36b18242c2fd732ed4d3a9/images/weETH.png"
   }
 ]
