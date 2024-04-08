@@ -18,7 +18,8 @@
       "decimals": 18,
       "logoURI": "https://baseswap.fi/images/tokens/0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9.png",
       "useDexscreener": true,
-      "dexscreenPairAddress": "0xE80B4F755417FB4baF4dbd23C029db3F62786523"
+      "dexscreenPairAddress": "0xE80B4F755417FB4baF4dbd23C029db3F62786523",
+      "isQuoteToken": true
     },
     {
       "name": "Base X",
@@ -75,7 +76,9 @@
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996"
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996",
+      "isQuoteToken": true,
+      "isStableCoin": true
     },
     {
       "name": "Coinbase Wrapped Staked ETH",
@@ -95,7 +98,8 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/16786/standard/mimlogopng.png?1696516358",
       "useDexscreener": true,
-      "dexscreenPairAddress": "0xa2b120Cab75AEfDfAFdA6A14713349A3096EED79"
+      "dexscreenPairAddress": "0xa2b120Cab75AEfDfAFdA6A14713349A3096EED79",
+      "isStableCoin": true
     },
     {
       "name": "Yield Farming Index",
@@ -299,7 +303,8 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://baseswap.fi/images/tokens/0x4200000000000000000000000000000000000006.png",
-      "coingeckoTokenId": "ethereum"
+      "coingeckoTokenId": "ethereum",
+      "isQuoteToken": true
     },
     {
       "name": "Arbidex",
@@ -317,7 +322,9 @@
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "isQuoteToken": true,
+      "isStableCoin": true
     },
 
     {

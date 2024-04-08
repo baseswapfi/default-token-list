@@ -7,7 +7,8 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36014/standard/SMDPNG.png?1710326417",
     "useDexscreener": true,
-    "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A"
+    "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A",
+    "isQuoteToken": true
   },
   {
     "name": "SwapMode Escrowed Token",
@@ -26,7 +27,9 @@
     "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
     "chainId": 34443,
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+    "isQuoteToken": true,
+    "isStableCoin": true
   },
   {
     "name": "Wrapped Ether",
@@ -35,7 +38,8 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
-    "coingeckoTokenId": "ethereum"
+    "coingeckoTokenId": "ethereum",
+    "isQuoteToken": true
   },
   {
     "name": "Wrapped Bitcoin",
@@ -43,7 +47,8 @@
     "address": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
     "chainId": 34443,
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579"
+    "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+    "isQuoteToken": true
   },
   {
     "name": "Renzo Restaked ETH",
@@ -91,7 +96,8 @@
     "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
     "chainId": 34443,
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+    "isStableCoin": true
   },
 
   {
@@ -100,7 +106,9 @@
     "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996"
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996",
+    "isQuoteToken": true,
+    "isStableCoin": true
   },
 
   {
