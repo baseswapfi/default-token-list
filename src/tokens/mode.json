@@ -108,7 +108,7 @@
     "decimals": 18,
     "useDexscreener": true,
     "dexscreenPairAddress": "0xE51E94DabA685a802f46CA305e568Fc8A5914b24", 
-    "logoURI": "https://swapmode.fi/images/tokens/0x598f9Cb99BaFC8346b4c153A61b3A27C8f13B10F.png"
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/c8428d2d734824d3543861b7c0c0457ca99047e5/images/MODI.png"
   },
   {
     "name": "Dai Stablecoin",
