@@ -347,11 +347,31 @@
       "dexscreenPairAddress": "0xeD89cC1fc96F749CceD4b94eA366A0d4c7C1826f"
     },
     {
-      "name": "Optimism",
-      "symbol": "OP",
-      "address": "0x4F192ED4449DEB47ed769b135d75aba33256aE43",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "address": "0x23432452b720c80553458496d4d9d7c5003280d0",
       "chainId": 8453,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/standard/Frax_Shares_icon.png?1696513183",
+      "coingeckoTokenId": "frax-share"
+    },
+    {
+      "name": "Staked Frax",
+      "symbol": "sFRAX",
+      "address": "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35383/standard/sfrax.png?1708445569",
+      "coingeckoTokenId": "staked-frax"
+    },
+    {
+      "name": "Staked Frax Ether",
+      "symbol": "sfrxETH",
+      "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28285/standard/sfrxETH_icon.png?1696527285",
+      "coingeckoTokenId": "staked-frax-ether"
     },
     {
       "name": "Wrapped Ether",
