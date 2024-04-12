@@ -101,6 +101,16 @@
   },
 
   {
+    "name": "Modie",
+    "symbol": "MODI",
+    "address": "0x598f9Cb99BaFC8346b4c153A61b3A27C8f13B10F",
+    "chainId": 34443,
+    "decimals": 18,
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0xE51E94DabA685a802f46CA305e568Fc8A5914b24", 
+    "logoURI": "https://swapmode.fi/images/tokens/0x598f9Cb99BaFC8346b4c153A61b3A27C8f13B10F.png"
+  },
+  {
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
