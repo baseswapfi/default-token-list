@@ -107,12 +107,12 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "",
-    "useDexscreener": false,
-    "dexscreenPairAddress": ""
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0xA547801aDc0925DD5317f475eDEad1736F7F4fBf"
   },
   {
     "name": "Kelp DAO",
-    "symbol": "rsETH",
+    "symbol": "wrsETH",
     "address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
     "chainId": 34443,
     "decimals": 18,
