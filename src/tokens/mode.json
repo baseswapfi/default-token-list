@@ -81,6 +81,46 @@
     "dexscreenPairAddress": "0x08262cDCb559dC08d34C95D5CA989BD57f721B20"
   },
   {
+    "name": "Merlin BTC",
+    "symbol": "MBTC",
+    "address": "0x59889b7021243dB5B1e065385F918316cD90D46c",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "",
+    "useDexscreener": false,
+    "dexscreenPairAddress": ""
+  },
+  {
+    "name": "Pirex Ether OFT",
+    "symbol": "PXETH",
+    "address": "0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "",
+    "useDexscreener": false,
+    "dexscreenPairAddress": ""
+  },
+  {
+    "name": "Ankr Staked ETH",
+    "symbol": "ankrETH",
+    "address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "",
+    "useDexscreener": false,
+    "dexscreenPairAddress": ""
+  },
+  {
+    "name": "Kelp DAO",
+    "symbol": "rsETH",
+    "address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "",
+    "useDexscreener": false,
+    "dexscreenPairAddress": ""
+  },
+  {
     "name": "MoChad",
     "symbol": "MOCHAD",
     "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
