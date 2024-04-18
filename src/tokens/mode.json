@@ -117,8 +117,8 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "",
-    "useDexscreener": false,
-    "dexscreenPairAddress": ""
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0x7794A80b2D36F35239bD2Fcc77ca0E2d2E47D9A3"
   },
   {
     "name": "MoChad",
