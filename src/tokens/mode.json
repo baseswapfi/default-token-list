@@ -88,7 +88,7 @@
     "decimals": 18,
     "logoURI": "https://github.com/baseswapfi/default-token-list/blob/06ac53dbe8bcf17e51e553084ae015bef8e9f3ee/images/mbtc.png",
     "useDexscreener": false,
-    "coingeckoTokenId": "bitcoin"
+    "coingeckoTokenId": "merlin-chain-bridged-wrapped-btc-merlin"
   },
   {
     "name": "Pirex Ether OFT",
