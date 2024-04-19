@@ -88,7 +88,6 @@
     "decimals": 18,
     "logoURI": "https://github.com/baseswapfi/default-token-list/blob/06ac53dbe8bcf17e51e553084ae015bef8e9f3ee/images/mbtc.png",
     "useDexscreener": false,
-    "dexscreenPairAddress": "",
     "coingeckoTokenId": "bitcoin"
   },
   {
@@ -138,7 +137,8 @@
     "chainId": 34443,
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
-    "isStableCoin": true
+    "isStableCoin": true,
+    "isQuoteToken": true
   },
   {
     "name": "Modie",
