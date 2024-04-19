@@ -88,7 +88,8 @@
     "decimals": 18,
     "logoURI": "https://github.com/baseswapfi/default-token-list/blob/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/mbtc.png",
     "useDexscreener": false,
-    "dexscreenPairAddress": ""
+    "dexscreenPairAddress": "",
+    "coingeckoTokenId": "bitcoin"
   },
   {
     "name": "Pirex Ether OFT",
@@ -146,7 +147,7 @@
     "chainId": 34443,
     "decimals": 18,
     "useDexscreener": true,
-    "dexscreenPairAddress": "0xE51E94DabA685a802f46CA305e568Fc8A5914b24", 
+    "dexscreenPairAddress": "0xE51E94DabA685a802f46CA305e568Fc8A5914b24",
     "logoURI": "https://github.com/baseswapfi/default-token-list/blob/c8428d2d734824d3543861b7c0c0457ca99047e5/images/MODI.png"
   },
   {
