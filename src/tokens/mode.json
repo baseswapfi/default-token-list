@@ -187,5 +187,13 @@
     "decimals": 18,
     "logoURI": "https://github.com/baseswapfi/default-token-list/blob/057d466479e818ca2ecec1f1ca270901647fcbfb/images/weETH.png",
     "coingeckoTokenId": "wrapped-eeth"
+  },
+  {
+    "name": "Mode",
+    "symbol": "MODE",
+    "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/029ef40a278a91125a411ce85e486c73d9169c63/images/MODE.png"
   }
 ]
