@@ -131,6 +131,18 @@
     "dexscreenPairAddress": "0xf927Bf4A4170f29c429Ad3b9D953E57DF3691ec9"
   },
   {
+    "name": "BeastMode",
+    "symbol": "BEAST",
+    "address": "0x6a660e56FA3b630A786CC4Ae98859f8532D03dE9",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "",
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0x35320a94F0a6Eb95815E195B1C0AcfCd0bB34C7f"
+  },
+
+  
+  {
     "name": "USDT",
     "symbol": "USDT",
     "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
