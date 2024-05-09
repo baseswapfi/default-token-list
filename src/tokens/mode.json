@@ -136,7 +136,7 @@
     "address": "0x6a660e56FA3b630A786CC4Ae98859f8532D03dE9",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/37160f058c65c346002368bf8eb8f6ed4aa5be96/images/BEAST.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x35320a94F0a6Eb95815E195B1C0AcfCd0bB34C7f"
   },
