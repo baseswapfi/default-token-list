@@ -16,7 +16,7 @@
     "address": "0xFb68BBfaEF679C1E653b5cE271a0A383c0df6B45",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/4c3017f1cba57e728de5f65bf7b5a7fc5a2b0c7f/images/xSMD.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/4c3017f1cba57e728de5f65bf7b5a7fc5a2b0c7f/images/xSMD.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x7F3315d773350883EbB4F643AB5Ec0d32d162C8A",
     "tradeable": false
@@ -66,7 +66,7 @@
     "address": "0xFEBBb7f02Aec3F970591D7BeE937EfB3B07A5683",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://swapmode.fi/images/tokens/0xFEBBb7f02Aec3F970591D7BeE937EfB3B07A5683.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/b0d3a737df3477b2a7c0ee942f1c04cf7acbe51b/images/LINDA.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x81845f2c5c1c7B757692d175930FA8E5d7B6cF60"
   },
@@ -76,7 +76,7 @@
     "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/898e414c81627ab57f3c41ef96f3c937be7922ed/images/MOLTEN.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/898e414c81627ab57f3c41ef96f3c937be7922ed/images/MOLTEN.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x08262cDCb559dC08d34C95D5CA989BD57f721B20"
   },
@@ -86,7 +86,7 @@
     "address": "0x59889b7021243dB5B1e065385F918316cD90D46c",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/06ac53dbe8bcf17e51e553084ae015bef8e9f3ee/images/mbtc.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/06ac53dbe8bcf17e51e553084ae015bef8e9f3ee/images/mbtc.png",
     "useDexscreener": false,
     "coingeckoTokenId": "merlin-chain-bridged-wrapped-btc-merlin"
   },
@@ -96,7 +96,7 @@
     "address": "0x9E0d7D79735e1c63333128149c7b616a0dC0bBDb",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/pxETH.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/pxETH.png",
     "useDexscreener": false,
     "dexscreenPairAddress": ""
   },
@@ -106,7 +106,7 @@
     "address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/ankrETH.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/ankrETH.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0xA547801aDc0925DD5317f475eDEad1736F7F4fBf"
   },
@@ -116,7 +116,7 @@
     "address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/rsETH.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/rsETH.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x7794A80b2D36F35239bD2Fcc77ca0E2d2E47D9A3"
   },
@@ -126,7 +126,7 @@
     "address": "0xcDa802a5BFFaa02b842651266969A5Bba0c66D3e",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/831bde68bab2af91599dc684d7049cebb876d417/images/MOCHAD.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/831bde68bab2af91599dc684d7049cebb876d417/images/MOCHAD.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0xf927Bf4A4170f29c429Ad3b9D953E57DF3691ec9"
   },
@@ -160,7 +160,7 @@
     "decimals": 18,
     "useDexscreener": true,
     "dexscreenPairAddress": "0xE51E94DabA685a802f46CA305e568Fc8A5914b24",
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/c8428d2d734824d3543861b7c0c0457ca99047e5/images/MODI.png"
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/c8428d2d734824d3543861b7c0c0457ca99047e5/images/MODI.png"
   },
   {
     "name": "Dai Stablecoin",
@@ -179,7 +179,7 @@
     "address": "0x80137510979822322193FC997d400D5A6C747bf7",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://swapmode.fi/images/tokens/0x80137510979822322193FC997d400D5A6C747bf7.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/5933d108f9b9ddbb0f605576651829a9b3affeca/images/snakestone.png",
     "coingeckoTokenId": "stakestone-ether"
   },
   {
@@ -188,7 +188,7 @@
     "address": "0x028227c4dd1e5419d11Bb6fa6e661920c519D4F5",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/057d466479e818ca2ecec1f1ca270901647fcbfb/images/weETH.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/057d466479e818ca2ecec1f1ca270901647fcbfb/images/weETH.png",
     "coingeckoTokenId": "wrapped-eeth"
   },
   {
@@ -197,7 +197,7 @@
     "address": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/057d466479e818ca2ecec1f1ca270901647fcbfb/images/weETH.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/057d466479e818ca2ecec1f1ca270901647fcbfb/images/weETH.png",
     "coingeckoTokenId": "wrapped-eeth"
   },
   {
@@ -206,7 +206,7 @@
     "address": "0xDfc7C877a950e49D2610114102175A06C2e3167a",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/029ef40a278a91125a411ce85e486c73d9169c63/images/MODE.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/029ef40a278a91125a411ce85e486c73d9169c63/images/MODE.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0xd724540F997337100B0Da0CE5A8Df39f15Fbb7b3"
   }
