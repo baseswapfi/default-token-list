@@ -66,7 +66,7 @@
     "address": "0xFEBBb7f02Aec3F970591D7BeE937EfB3B07A5683",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://swapmode.fi/images/tokens/0xFEBBb7f02Aec3F970591D7BeE937EfB3B07A5683.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/b0d3a737df3477b2a7c0ee942f1c04cf7acbe51b/images/LINDA.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x81845f2c5c1c7B757692d175930FA8E5d7B6cF60"
   },
