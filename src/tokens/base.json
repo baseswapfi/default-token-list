@@ -396,6 +396,14 @@
       "chainId": 84531,
       "decimals": 18,
       "logoURI": ""
+    },
+    {
+      "name": "The Void",
+      "symbol": "VOID",
+      "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc.png"
     }
   ]
 }
