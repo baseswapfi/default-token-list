@@ -215,7 +215,9 @@
     "address": "0x2BE717340023C9e14C1Bb12cb3ecBcfd3c3fB038",
     "chainId": 34443,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/19a6ce38d1f01cf03dce306daf38d674a2d865d4/images/ionUSDC.png"
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/19a6ce38d1f01cf03dce306daf38d674a2d865d4/images/ionUSDC.png",
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0x1E3CfebFf9c68b3d2FF8fC880a22655554BeCe55"
   },
   {
     "name": "Ionic Tether USD",
@@ -223,6 +225,8 @@
     "address": "0x94812f2eea03a49869f95e1b5868c6f3206ee3d3",
     "chainId": 34443,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/19a6ce38d1f01cf03dce306daf38d674a2d865d4/images/ionUSDT.png"
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/19a6ce38d1f01cf03dce306daf38d674a2d865d4/images/ionUSDT.png",
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0x49ccf1f7c139136d9cdbbc684751187b34271e82"
   }
 ]
