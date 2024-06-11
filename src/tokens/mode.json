@@ -37,7 +37,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://ethereum.by/static/6b935ac0e6194247347855dc3d328e83/ed396/eth-diamond-black.png",
+    "logoURI": "https://coinwatch.finance/images/coin/wrapped-ether.png",
     "coingeckoTokenId": "ethereum",
     "isQuoteToken": true
   },
