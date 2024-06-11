@@ -37,7 +37,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/feae307b83310c8c5730bd201832ae4c544e5984/images/ETH.svg",
     "coingeckoTokenId": "ethereum",
     "isQuoteToken": true
   },
