@@ -141,7 +141,6 @@
     "dexscreenPairAddress": "0x35320a94F0a6Eb95815E195B1C0AcfCd0bB34C7f"
   },
 
-  
   {
     "name": "USDT",
     "symbol": "USDT",
@@ -209,5 +208,23 @@
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/029ef40a278a91125a411ce85e486c73d9169c63/images/MODE.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0xd724540F997337100B0Da0CE5A8Df39f15Fbb7b3"
+  },
+  {
+    "name": "Ionic USD Coin",
+    "symbol": "ionUSDC",
+    "address": "0x2BE717340023C9e14C1Bb12cb3ecBcfd3c3fB038",
+    "chainId": 34443,
+    "decimals": 6,
+    "logoURI": "",
+    "isStableCoin": true
+  },
+  {
+    "name": "Ionic Tether USD",
+    "symbol": "ionUSDT",
+    "address": "0x94812f2eea03a49869f95e1b5868c6f3206ee3d3",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "",
+    "isStableCoin": true
   }
 ]
