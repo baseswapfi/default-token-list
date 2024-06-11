@@ -223,7 +223,7 @@
     "symbol": "ionUSDT",
     "address": "0x94812f2eea03a49869f95e1b5868c6f3206ee3d3",
     "chainId": 34443,
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "",
     "isStableCoin": true
   }
