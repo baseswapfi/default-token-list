@@ -37,7 +37,7 @@
     "address": "0x4200000000000000000000000000000000000006",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/feae307b83310c8c5730bd201832ae4c544e5984/images/ETH.svg",
+    "logoURI": "https://ethereum.by/static/6b935ac0e6194247347855dc3d328e83/ed396/eth-diamond-black.png",
     "coingeckoTokenId": "ethereum",
     "isQuoteToken": true
   },
