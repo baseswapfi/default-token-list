@@ -301,7 +301,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x4200000000000000000000000000000000000006.png",
+      "logoURI": "https://coinwatch.finance/images/coin/wrapped-ether.png",
       "coingeckoTokenId": "ethereum",
       "isQuoteToken": true
     },
@@ -372,14 +372,6 @@
       "coingeckoTokenId": "staked-frax-ether"
     },
     {
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "address": "0x4200000000000000000000000000000000000006",
-      "chainId": 84531,
-      "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x4200000000000000000000000000000000000006.png"
-    },
-    {
       "name": "Chainlink Token",
       "symbol": "LINK",
       "address": "0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3",
@@ -393,7 +385,7 @@
       "address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84",
       "chainId": 84531,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x7b4Adf64B0d60fF97D672E473420203D52562A84.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
     },
     {
       "name": "The Void",
@@ -466,7 +458,7 @@
       "address": "0x4da78059D97f155E18B37765e2e042270f4E0fC4",
       "chainId": 8453,
       "decimals": 4,
-      "logoURI": "https://baseswap.fi/images/tokens/0x4da78059D97f155E18B37765e2e042270f4E0fC4.png"
+      "logoURI": "https://i.imgur.com/RZDxaaZ.png"
     },
     {
       "name": "AIPEPE",
