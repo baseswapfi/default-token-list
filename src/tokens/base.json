@@ -2,7 +2,7 @@
   "name": "BaseSwap Default List",
   "timestamp": "2023-08-01T11:45:09Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
@@ -48,7 +48,7 @@
       "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "",
+      "logoURI": "https://baseswap.fi/images/tokens/0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xBF5F6359745298eE65c52A32BE5fe9FafB1B434D"
     },
@@ -58,7 +58,7 @@
       "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://baseswap.fi/images/tokens/0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xc9034c3E7F58003E6ae0C8438e7c8f4598d5ACAA"
     },
@@ -204,7 +204,6 @@
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93DcFBE3174e5EFE65687ba5331626f44DC5e4dD"
     },
-
     {
       "name": "Axelar Wrapped Bitcoin",
       "symbol": "axlWBTC",
@@ -265,7 +264,7 @@
       "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://baseswap.fi/images/tokens/0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A"
     },
@@ -275,7 +274,7 @@
       "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://baseswap.fi/images/tokens/0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275.png",
       "coingeckoTokenId": "overnight-dai"
     },
     {
@@ -326,14 +325,13 @@
       "isQuoteToken": true,
       "isStableCoin": true
     },
-
     {
       "name": "MAI Stablecoin ",
       "symbol": "MAI",
       "address": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://baseswap.fi/images/tokens/0xbf1aeA8670D2528E08334083616dD9C5F3B087aE.png",
       "coingeckoTokenId": "mimatic"
     },
     {
@@ -342,7 +340,7 @@
       "address": "0x1A9132ee02d7E98e51b7389D2e7BB537184867Aa",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://baseswap.fi/images/tokens/0x1A9132ee02d7E98e51b7389D2e7BB537184867Aa.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xeD89cC1fc96F749CceD4b94eA366A0d4c7C1826f"
     },
@@ -387,7 +385,7 @@
       "address": "0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3",
       "chainId": 84531,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://baseswap.fi/images/tokens/0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3.png"
     },
     {
       "name": "USD Coin",
@@ -395,7 +393,7 @@
       "address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84",
       "chainId": 84531,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://baseswap.fi/images/tokens/0x7b4Adf64B0d60fF97D672E473420203D52562A84.png"
     },
     {
       "name": "The Void",
@@ -404,6 +402,128 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://baseswap.fi/images/tokens/0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc.png"
+    },
+    {
+      "name": "Cortana",
+      "symbol": "CORTANA",
+      "address": "0xccc7e9b7a1e2fa193683f23e23c495ecde3c4db8",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "https://baseswap.fi/images/tokens/0xccc7e9b7a1e2fa193683f23e23c495ecde3c4db8.jpg"
+    },
+    {
+      "name": "Bumpies Brawl Quest Token",
+      "symbol": "BBQ",
+      "address": "0xC8A256627f9a07c2C7c5706D400d0856Cb8AcA45",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0xC8A256627f9a07c2C7c5706D400d0856Cb8AcA45.png",
+      "tax": true
+    },
+    {
+      "name": "US Debt",
+      "symbol": "USDEBT",
+      "address": "0xA23dD9379F2E12D9ce76eC738b9f5e520d1D861c",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0xA23dD9379F2E12D9ce76eC738b9f5e520d1D861c.png"
+    },
+    {
+      "name": "Bald Wif Hat",
+      "symbol": "BIF",
+      "address": "0xc32a4e2b86AfE970D865D6581ccEDaaDEDb6f72f",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://baseswap.fi/images/tokens/0xc32a4e2b86AfE970D865D6581ccEDaaDEDb6f72f.png"
+    },
+    {
+      "name": "RAFL",
+      "symbol": "RAFL",
+      "address": "0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://baseswap.fi/images/tokens/0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F.png"
+    },
+    {
+      "name": "Reach",
+      "symbol": "REACH",
+      "address": "0x4379c13143Eb91148fF9282CFb2f93536687A45b",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x4379c13143Eb91148fF9282CFb2f93536687A45b.png"
+    },
+    {
+      "name": "AeroBud",
+      "symbol": "AEROBUD",
+      "address": "0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d.jpeg"
+    },
+    {
+      "name": "Wuffi",
+      "symbol": "WUF",
+      "address": "0x4da78059D97f155E18B37765e2e042270f4E0fC4",
+      "chainId": 8453,
+      "decimals": 4,
+      "logoURI": "https://baseswap.fi/images/tokens/0x4da78059D97f155E18B37765e2e042270f4E0fC4.png"
+    },
+    {
+      "name": "AIPEPE",
+      "symbol": "AIPEPE",
+      "address": "0x309EFC182e7044cD8DdD84712f60827660756C72",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x309EFC182e7044cD8DdD84712f60827660756C72.png"
+    },
+    {
+      "name": "doginme",
+      "symbol": "doginme",
+      "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x6921B130D297cc43754afba22e5EAc0FBf8Db75b.png"
+    },
+    
+    {
+      "name": "CIRCLE",
+      "symbol": "CIRCLE",
+      "address": "0x5baBfc2F240bc5De90Eb7e19D789412dB1dEc402",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x5baBfc2F240bc5De90Eb7e19D789412dB1dEc402.png"
+    },
+    {
+      "name": "The Doge NFT",
+      "symbol": "DOG",
+      "address": "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6.png"
+    },
+    {
+      "name": "Brett",
+      "symbol": "BRETT",
+      "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x532f27101965dd16442E59d40670FaF5eBB142E4.png"
+    },
+    {
+      "name": "FINK",
+      "symbol": "FINK",
+      "address": "0x9Ee4Ed687d1Ae6Fc3a7a427adD25c6356876af6C",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x9Ee4Ed687d1Ae6Fc3a7a427adD25c6356876af6C.jpg"
+    },
+    {
+      "name": "Altitude",
+      "symbol": "Altitude",
+      "address": "0x90678C02823b21772fa7e91B27EE70490257567B",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://baseswap.fi/images/tokens/0x90678C02823b21772fa7e91B27EE70490257567B.png"
     }
   ]
 }
