@@ -16,7 +16,7 @@
       "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9.png",
+      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a92cc10e30462a2ab4585138edf89872c5722ef5/images/bswap.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xE80B4F755417FB4baF4dbd23C029db3F62786523",
       "isQuoteToken": true
@@ -27,7 +27,7 @@
       "address": "0xd5046B976188EB40f6DE40fB527F89c05b323385",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0xd5046B976188EB40f6DE40fB527F89c05b323385.png",
+      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a92cc10e30462a2ab4585138edf89872c5722ef5/images/bsx.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x7fea0384f38ef6ae79bb12295a9e10c464204f52"
     },
@@ -37,7 +37,7 @@
       "address": "0xE4750593d1fC8E74b31549212899A72162f315Fa",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://baseswap.fi/images/tokens/0xE4750593d1fC8E74b31549212899A72162f315Fa.png",
+      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a92cc10e30462a2ab4585138edf89872c5722ef5/images/xbsx.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x7fea0384f38ef6ae79bb12295a9e10c464204f52",
       "tradeable": false
