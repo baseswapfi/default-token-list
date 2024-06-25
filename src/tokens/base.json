@@ -264,7 +264,7 @@
       "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usd+.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usd%2B.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A"
     },
@@ -274,7 +274,7 @@
       "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/dai+.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/dai%2B.png",
       "coingeckoTokenId": "overnight-dai"
     },
     {
@@ -311,7 +311,7 @@
       "address": "0x58Ed4FD0C3d930b674BA50a293f03ef6cD7dE7a3",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/arbidex.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/arbidex.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x7Ed8FD9D4bb2562b4F53D1A62C2CD30b698cB2e8"
     },
@@ -331,7 +331,7 @@
       "address": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/mai.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/mai.png",
       "coingeckoTokenId": "mimatic"
     },
     {
@@ -340,7 +340,7 @@
       "address": "0x1A9132ee02d7E98e51b7389D2e7BB537184867Aa",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/bullrun.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/bullrun.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xeD89cC1fc96F749CceD4b94eA366A0d4c7C1826f"
     },
@@ -385,7 +385,7 @@
       "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png"
     },
     {
       "name": "Cortana",
@@ -393,7 +393,7 @@
       "address": "0xccc7e9b7a1e2fa193683f23e23c495ecde3c4db8",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/cortana.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/cortana.png"
     },
     {
       "name": "Bumpies Brawl Quest Token",
@@ -401,7 +401,7 @@
       "address": "0xC8A256627f9a07c2C7c5706D400d0856Cb8AcA45",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/bumpies.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/bumpies.png",
       "tax": true
     },
     {
@@ -410,7 +410,7 @@
       "address": "0xA23dD9379F2E12D9ce76eC738b9f5e520d1D861c",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png"
     },
     {
       "name": "Bald Wif Hat",
@@ -418,7 +418,7 @@
       "address": "0xc32a4e2b86AfE970D865D6581ccEDaaDEDb6f72f",
       "chainId": 8453,
       "decimals": 8,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/baldwifhat.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/baldwifhat.png"
     },
     {
       "name": "RAFL",
@@ -426,7 +426,7 @@
       "address": "0xC702b80a1bEBac118cab22Ce6F2978ef59563b3F",
       "chainId": 8453,
       "decimals": 8,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/rafl.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/rafl.png"
     },
     {
       "name": "Reach",
@@ -434,7 +434,7 @@
       "address": "0x4379c13143Eb91148fF9282CFb2f93536687A45b",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/reach.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/reach.png"
     },
     {
       "name": "AeroBud",
@@ -442,7 +442,7 @@
       "address": "0xFad8CB754230dbFd249Db0E8ECCb5142DD675a0d",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/aerobud.jpeg"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/aerobud.jpeg"
     },
     {
       "name": "Wuffi",
@@ -458,7 +458,7 @@
       "address": "0x309EFC182e7044cD8DdD84712f60827660756C72",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/aipepe.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/aipepe.png"
     },
     {
       "name": "doginme",
@@ -466,7 +466,7 @@
       "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/doginme.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/doginme.png"
     },
     
     {
@@ -483,7 +483,7 @@
       "address": "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/thedognft.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/thedognft.png"
     },
     {
       "name": "Brett",
@@ -491,7 +491,7 @@
       "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/brett.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/brett.png"
     },
     {
       "name": "FINK",
@@ -499,7 +499,7 @@
       "address": "0x9Ee4Ed687d1Ae6Fc3a7a427adD25c6356876af6C",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/fink.jpg"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/fink.jpg"
     },
     {
       "name": "Altitude",
@@ -507,7 +507,7 @@
       "address": "0x90678C02823b21772fa7e91B27EE70490257567B",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png"
     }
   ]
 }
