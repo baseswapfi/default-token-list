@@ -32,7 +32,7 @@
       "dexscreenPairAddress": "0x7fea0384f38ef6ae79bb12295a9e10c464204f52"
     },
     {
-      "name": "Baseswap Escrowed Token",
+      "name": "BaseSwap Escrowed Token",
       "symbol": "xBSX",
       "address": "0xE4750593d1fC8E74b31549212899A72162f315Fa",
       "chainId": 8453,
@@ -200,7 +200,7 @@
       "address": "0xfB825E93822DD971EBDFdB2180A751958dBD5e16",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/gnd.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/gnd.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93DcFBE3174e5EFE65687ba5331626f44DC5e4dD"
     },
@@ -236,7 +236,7 @@
       "address": "0x6B4712AE9797C199edd44F897cA09BC57628a1CF",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/unidx.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/unidx.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x30dcc8444f8361d5ce119fc25e16af0b583e88fd"
     },
@@ -246,7 +246,7 @@
       "address": "0x0A074378461FB7ed3300eA638c6Cc38246db4434",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/eldorado.svg"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/eldorado.svg"
     },
     {
       "name": "SweepCoin",
@@ -254,7 +254,7 @@
       "address": "0xB88a5Ac00917a02d82c7cd6CEBd73E2852d43574",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/sweep.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/sweep.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x2313f60D9E0f33d65A22006DD3f661c373AA2c66"
     },
@@ -283,7 +283,7 @@
       "address": "0x4788de271F50EA6f5D5D2a5072B8D3C61d650326",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/basin.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/basin.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xc54c5E7F1d46cBdA933c465D59fBecDf9aAf49Ad"
     },
