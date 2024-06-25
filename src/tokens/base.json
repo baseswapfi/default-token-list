@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://pancakeswap.finance/logo.png",
+  "logoURI": "",
   "keywords": ["baseswap", "default"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "address": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a92cc10e30462a2ab4585138edf89872c5722ef5/images/bswap.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a92cc10e30462a2ab4585138edf89872c5722ef5/images/bswap.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xE80B4F755417FB4baF4dbd23C029db3F62786523",
       "isQuoteToken": true
@@ -27,7 +27,7 @@
       "address": "0xd5046B976188EB40f6DE40fB527F89c05b323385",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a92cc10e30462a2ab4585138edf89872c5722ef5/images/bsx.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a92cc10e30462a2ab4585138edf89872c5722ef5/images/bsx.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x7fea0384f38ef6ae79bb12295a9e10c464204f52"
     },
@@ -37,7 +37,7 @@
       "address": "0xE4750593d1fC8E74b31549212899A72162f315Fa",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a92cc10e30462a2ab4585138edf89872c5722ef5/images/xbsx.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a92cc10e30462a2ab4585138edf89872c5722ef5/images/xbsx.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x7fea0384f38ef6ae79bb12295a9e10c464204f52",
       "tradeable": false
@@ -48,7 +48,7 @@
       "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/boge.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/boge.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xBF5F6359745298eE65c52A32BE5fe9FafB1B434D"
     },
@@ -58,7 +58,7 @@
       "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/degen.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/degen.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xc9034c3E7F58003E6ae0C8438e7c8f4598d5ACAA"
     },
@@ -68,7 +68,7 @@
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/31164/standard/baseusdc.jpg?1696529993"
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdbc.webp"
     },
     {
       "name": "DAI Stablecoin Token",
@@ -180,7 +180,7 @@
       "address": "0x546D239032b24eCEEE0cb05c92FC39090846adc7",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/seed.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/seed.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xAA6a81A7df94DAb346e2d677225caD47220540C5"
     },
@@ -190,7 +190,7 @@
       "address": "0xCd239E01C36d3079c0dAeF355C61cFF591C40DB1",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/gmd.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/gmd.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93DcFBE3174e5EFE65687ba5331626f44DC5e4dD"
     },
