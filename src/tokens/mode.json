@@ -171,7 +171,14 @@
     "isQuoteToken": true,
     "isStableCoin": true
   },
-
+  {
+    "name": "Inception LRT restaked ETH",
+    "symbol": "inETH",
+    "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/898b3eee2c1a2b4bfa0c504992d0314388186a1f/images/inETH.png"
+  },
   {
     "name": "Snakestone Ether",
     "symbol": "STONE",
