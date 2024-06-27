@@ -177,7 +177,8 @@
     "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/898b3eee2c1a2b4bfa0c504992d0314388186a1f/images/inETH.png"
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/898b3eee2c1a2b4bfa0c504992d0314388186a1f/images/inETH.png", 
+    "dexscreenPairAddress": "0xBEd8709745125B87F2F9cB74b1bF43188E60AA05"
   },
   {
     "name": "Snakestone Ether",
