@@ -243,7 +243,7 @@
     "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/inETH.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/inETH.png?raw=true",
     "coingeckoTokenId": "genesislrt-restaked-eth"
   },
   {
@@ -252,7 +252,7 @@
     "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDA.png",
+    "logoURI": "https://github.com/baseswapfi/default-token-list/blob/32d83880720764572e0703b1b12f7b7b1e2560a8/images/USDA.png?raw=true",
     "coingeckoTokenId": "angle-usd"
   },
   {
@@ -261,7 +261,7 @@
     "address": "0x00001063a5d3A9d5f1B03e848fa788aae1d98C5c",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/EURA.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/EURA.png?raw=true",
     "coingeckoTokenId": "ageur"
   }
 ]
