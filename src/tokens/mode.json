@@ -116,7 +116,7 @@
     "address": "0xe7903B1F75C534Dd8159b313d92cDCfbC62cB3Cd",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/rsETH.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/54bb46ef3e5ed79255aca974d966e81729d31b4a/images/rsETH.png?raw=true",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x7794A80b2D36F35239bD2Fcc77ca0E2d2E47D9A3"
   },
