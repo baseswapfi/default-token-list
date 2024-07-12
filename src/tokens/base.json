@@ -150,7 +150,7 @@
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33480/standard/Seamless_Logo_Black_Transparent.png?1702019657",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/7a0b25f64d57504139e6b425ba93a1973c89fbfa/images/SEAM.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x11E438B489e9e97e0252acd83AaA0a57AB611911"
     },
