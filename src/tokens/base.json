@@ -377,7 +377,7 @@
       "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/2451857dd652b6416c807d6070cef54c6ace4f52/images/aero.png"
     },
     {
       "name": "USD Coin",
