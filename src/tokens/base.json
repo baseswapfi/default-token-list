@@ -525,6 +525,14 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png?raw=true"
+    }, 
+    {
+      "name": "Crash",
+      "symbol": "CRASH",
+      "address": "0x4DD9077269Dd08899f2A9E73507125962b5BC87f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png?raw=true"
     }
   ]
 }
