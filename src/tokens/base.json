@@ -372,6 +372,14 @@
       "coingeckoTokenId": "staked-frax-ether"
     },
     {
+      "name": "Aerodrome",
+      "symbol": "AERO",
+      "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png"
+    },
+    {
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84",
