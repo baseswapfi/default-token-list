@@ -492,7 +492,7 @@
       "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/aad9a49612abc346e3973a3826570a4b0d7a33c6/images/wstETH.png?raw=true"
     },
     {
       "name": "The Doge NFT",
