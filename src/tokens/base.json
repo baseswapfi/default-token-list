@@ -487,6 +487,14 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CIRCLE.png?raw=true"
     },
     {
+      "name": "Wrapped liquid staker Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
       "name": "The Doge NFT",
       "symbol": "DOG",
       "address": "0xAfb89a09D82FBDE58f18Ac6437B3fC81724e4dF6",
