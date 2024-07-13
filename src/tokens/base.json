@@ -204,7 +204,7 @@
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93DcFBE3174e5EFE65687ba5331626f44DC5e4dD"
     },
-    
+
     {
       "name": "Axelar Wrapped Bitcoin",
       "symbol": "axlWBTC",
@@ -492,7 +492,8 @@
       "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/wstETH.png?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/wstETH.png?raw=true",
+      "coingeckoTokenId": "wrapped-steth"
     },
     {
       "name": "The Doge NFT",
@@ -525,7 +526,7 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png"
-    }, 
+    },
     {
       "name": "Dancing Wolf",
       "symbol": "WOLF",
@@ -533,7 +534,7 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/WOLF.png?raw=true"
-    }, 
+    },
     {
       "name": "Crash",
       "symbol": "CRASH",
