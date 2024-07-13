@@ -525,7 +525,9 @@
       "address": "0x90678C02823b21772fa7e91B27EE70490257567B",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png", 
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xD57f6e7D7eC911bA8deFCf93d3682BB76959e950"
     },
     {
       "name": "Dancing Wolf",
