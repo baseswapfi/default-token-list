@@ -492,7 +492,7 @@
       "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/aad9a49612abc346e3973a3826570a4b0d7a33c6/images/wstETH.png?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/wstETH.png?raw=true"
     },
     {
       "name": "The Doge NFT",
@@ -532,7 +532,7 @@
       "address": "0x00ef65Dc955f05d8B9135afa6CB07B0b6061A933",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/b33d7a993733b0e13f1d0f5e63a6a7ffd4e76ba0/images/WOLF.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/WOLF.png?raw=true"
     }, 
     {
       "name": "Crash",
@@ -540,7 +540,7 @@
       "address": "0x4DD9077269Dd08899f2A9E73507125962b5BC87f",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/49a1777f220f018b37fc033fd077347db5f32023/images/CRASH.webp?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CRASH.webp"
     }
   ]
 }
