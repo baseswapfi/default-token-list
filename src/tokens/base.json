@@ -394,7 +394,9 @@
       "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png", 
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0xB14e941D34d61ae251Ccc08AC15B8455AE9F60A5" 
     },
     {
       "name": "Cortana",
@@ -543,7 +545,10 @@
       "address": "0x4DD9077269Dd08899f2A9E73507125962b5BC87f",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CRASH.webp"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CRASH.webp", 
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0xf012e803c8e73d185AC96d6C3F830893A1116E03"
+
     }
   ]
 }
