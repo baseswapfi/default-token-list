@@ -378,7 +378,9 @@
       "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/aero.png?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/aero.png?raw=true", 
+      "coingeckoTokenId": "aerodrome-finance"
+
     },
     {
       "name": "USD Coin",
