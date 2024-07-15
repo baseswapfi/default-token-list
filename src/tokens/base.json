@@ -550,7 +550,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CRASH.webp", 
       "useDexscreener": true, 
       "dexscreenPairAddress": "0xf012e803c8e73d185AC96d6C3F830893A1116E03"
-
+    }, 
+    {
+      "name": "Basenji",
+      "symbol": "BENJI",
+      "address": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BENJI.jpg", 
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0x16905890A1D02b6F824387419319Bf4188B961b0"
     }
   ]
 }
