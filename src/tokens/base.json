@@ -423,7 +423,9 @@
       "address": "0xA23dD9379F2E12D9ce76eC738b9f5e520d1D861c",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png", 
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0x1467e6871afdEd1fFAD48919E593d9f130C59739"
     },
     {
       "name": "Bald Wif Hat",
