@@ -178,6 +178,7 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/898b3eee2c1a2b4bfa0c504992d0314388186a1f/images/inETH.png",
+    "useDexscreener": true, 
     "dexscreenPairAddress": "0xBEd8709745125B87F2F9cB74b1bF43188E60AA05"
   },
   {
