@@ -160,7 +160,7 @@
       "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31970/standard/OVN.png?1696959174",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/d4e1b42de15284343d047629699c05779de26b8e/images/OVN.svg",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x4F993cA764E9a4Ae76d27eB488cfD252Ac909f8d"
     },
