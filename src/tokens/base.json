@@ -322,7 +322,7 @@
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/e795e1fd73f94fbf6943ac043e94fd9c1dcbc40b/images/USDC.svg",
       "isQuoteToken": true,
       "isStableCoin": true
     },
