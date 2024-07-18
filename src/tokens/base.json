@@ -351,7 +351,7 @@
       "address": "0x23432452b720c80553458496d4d9d7c5003280d0",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13423/standard/Frax_Shares_icon.png?1696513183",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/86f05b4e5856203169dba64b26e6165e1be8dfa9/images/FXS.svg",
       "coingeckoTokenId": "frax-share"
     },
     {
@@ -369,7 +369,7 @@
       "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28285/standard/sfrxETH_icon.png?1696527285",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/86f05b4e5856203169dba64b26e6165e1be8dfa9/images/sfrxETH.svg",
       "coingeckoTokenId": "staked-frax-ether"
     },
     {
