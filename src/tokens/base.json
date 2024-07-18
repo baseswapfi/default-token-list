@@ -265,7 +265,7 @@
       "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usd%2B.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/fd33e52868f183d366054eaaf427a343c41ee9aa/images/USD+.svg",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A"
     },
