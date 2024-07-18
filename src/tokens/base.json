@@ -302,7 +302,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://coinwatch.finance/images/coin/wrapped-ether.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/ETH.webp",
       "coingeckoTokenId": "ethereum",
       "isQuoteToken": true
     },
