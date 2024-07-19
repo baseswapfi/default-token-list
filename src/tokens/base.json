@@ -570,7 +570,8 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/MIGGLES.webp", 
-      "coingeckoTokenId": "mister-miggles"
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0xBCff421d06c165159f6b6895982C9Ea23B781E42"
     }
   ]
 }
