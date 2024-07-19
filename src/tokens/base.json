@@ -562,6 +562,15 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BENJI.jpg", 
       "useDexscreener": true, 
       "dexscreenPairAddress": "0x16905890A1D02b6F824387419319Bf4188B961b0"
+    }, 
+    {
+      "name": "Mister Miggles",
+      "symbol": "MIGGLES",
+      "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/MIGGLES.webp", 
+      "coingeckoTokenId": "mister-miggles"
     }
   ]
 }
