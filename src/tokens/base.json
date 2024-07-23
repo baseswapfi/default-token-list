@@ -572,6 +572,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/MIGGLES.webp", 
       "useDexscreener": true, 
       "dexscreenPairAddress": "0xBCff421d06c165159f6b6895982C9Ea23B781E42"
+    }, 
+    {
+      "name": "Baby Brett",
+      "symbol": "BBRETT",
+      "address": "0xBE5614875952b1683cb0A2C20E6509be46d353a4",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BBRETT.webp", 
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0x05511784Abc6e20B3F206101bb48D222771Ebd85"
     }
   ]
 }
