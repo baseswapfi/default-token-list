@@ -68,7 +68,8 @@
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdbc.webp"
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdbc.webp",
+      "isStableCoin": true
     },
     {
       "name": "DAI Stablecoin Token",
@@ -267,7 +268,8 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/fd33e52868f183d366054eaaf427a343c41ee9aa/images/USD+.svg",
       "useDexscreener": true,
-      "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A"
+      "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A",
+      "isStableCoin": true
     },
     {
       "name": "DAI+",
@@ -276,7 +278,8 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/dai%2B.png",
-      "coingeckoTokenId": "overnight-dai"
+      "coingeckoTokenId": "overnight-dai",
+      "isStableCoin": true
     },
     {
       "name": "Basin Protocol",
@@ -294,7 +297,8 @@
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/26476/standard/uausdc_D_3x.png?1696525548"
+      "logoURI": "https://assets.coingecko.com/coins/images/26476/standard/uausdc_D_3x.png?1696525548",
+      "isStableCoin": true
     },
     {
       "name": "Wrapped Ether",
@@ -378,9 +382,8 @@
       "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/aero.png?raw=true", 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/aero.png?raw=true",
       "coingeckoTokenId": "aerodrome-finance"
-
     },
     {
       "name": "USD Coin",
@@ -388,7 +391,8 @@
       "address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84",
       "chainId": 84531,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "isStableCoin": true
     },
     {
       "name": "The Void",
@@ -396,9 +400,9 @@
       "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png", 
-      "useDexscreener": true, 
-      "dexscreenPairAddress": "0xB14e941D34d61ae251Ccc08AC15B8455AE9F60A5" 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xB14e941D34d61ae251Ccc08AC15B8455AE9F60A5"
     },
     {
       "name": "Cortana",
@@ -423,8 +427,8 @@
       "address": "0xA23dD9379F2E12D9ce76eC738b9f5e520d1D861c",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png", 
-      "useDexscreener": true, 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png",
+      "useDexscreener": true,
       "dexscreenPairAddress": "0x1467e6871afdEd1fFAD48919E593d9f130C59739"
     },
     {
@@ -531,7 +535,7 @@
       "address": "0x90678C02823b21772fa7e91B27EE70490257567B",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png", 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xD57f6e7D7eC911bA8deFCf93d3682BB76959e950"
     },
@@ -549,38 +553,38 @@
       "address": "0x4DD9077269Dd08899f2A9E73507125962b5BC87f",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CRASH.webp", 
-      "useDexscreener": true, 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CRASH.webp",
+      "useDexscreener": true,
       "dexscreenPairAddress": "0xf012e803c8e73d185AC96d6C3F830893A1116E03"
-    }, 
+    },
     {
       "name": "Basenji",
       "symbol": "BENJI",
       "address": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BENJI.jpg", 
-      "useDexscreener": true, 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BENJI.jpg",
+      "useDexscreener": true,
       "dexscreenPairAddress": "0x16905890A1D02b6F824387419319Bf4188B961b0"
-    }, 
+    },
     {
       "name": "Mister Miggles",
       "symbol": "MIGGLES",
       "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/MIGGLES.webp", 
-      "useDexscreener": true, 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/MIGGLES.webp",
+      "useDexscreener": true,
       "dexscreenPairAddress": "0xBCff421d06c165159f6b6895982C9Ea23B781E42"
-    }, 
+    },
     {
       "name": "Baby Brett",
       "symbol": "BBRETT",
       "address": "0xBE5614875952b1683cb0A2C20E6509be46d353a4",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BBRETT.webp", 
-      "useDexscreener": true, 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BBRETT.webp",
+      "useDexscreener": true,
       "dexscreenPairAddress": "0x05511784Abc6e20B3F206101bb48D222771Ebd85"
     }
   ]
