@@ -69,7 +69,9 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdbc.webp",
-      "isStableCoin": true
+      "isStableCoin": true, 
+       "useDexscreener": true,
+      "dexscreenPairAddress": "0x41d160033C222E6f3722EC97379867324567d883"
     },
     {
       "name": "DAI Stablecoin Token",
