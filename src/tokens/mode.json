@@ -245,7 +245,8 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/inETH.png?raw=true",
-    "coingeckoTokenId": "genesislrt-restaked-eth"
+    "useDexscreener": "true", 
+    "dexscreenPairAddress": "0x8c003a24Fe5430f3EF87A12EE2BF6566F7d5AE46"
   },
   {
     "name": "USDA",
