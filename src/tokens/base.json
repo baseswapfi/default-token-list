@@ -587,6 +587,19 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BBRETT.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x05511784Abc6e20B3F206101bb48D222771Ebd85"
+    }, 
+    {
+      "name": "Flux YIN",
+      "symbol": "YIN",
+      "address": "0xecb36ff12cbe4710e9be2411de46e6c180a4807f",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x05511784Abc6e20B3F206101bb48D222771Ebd85"
     }
+
+
+    
   ]
 }
