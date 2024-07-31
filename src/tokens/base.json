@@ -594,9 +594,9 @@
       "address": "0xecb36ff12cbe4710e9be2411de46e6c180a4807f",
       "chainId": 8453,
       "decimals": 8,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/YIN.webp",
       "useDexscreener": true,
-      "dexscreenPairAddress": "0x05511784Abc6e20B3F206101bb48D222771Ebd85"
+      "dexscreenPairAddress": "0xA05dB5EbEd9902A1A14a4787c7F60549D5336488"
     }
 
 
