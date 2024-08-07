@@ -607,6 +607,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/GME.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93efF1F9142F3A00B284876AD37E0cDD87C67477"
+    }, 
+    {
+      "name": "USDz",
+      "symbol": "USDz",
+      "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDz.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x6d0b9C9E92a3De30081563c3657B5258b3fFa38B"
     }
 
 
