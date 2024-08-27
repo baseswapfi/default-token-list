@@ -624,7 +624,7 @@
       "address": "0x25e58984a39eb5aac0b66110bc3ca03fc0e5832d",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/REHTE.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x91a12590527cf3C14664b6848C95fD2303b069cD"
     }
