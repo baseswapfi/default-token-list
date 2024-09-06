@@ -68,7 +68,9 @@
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdbc.webp"
+      "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdbc.webp",
+      "isStableCoin": true, 
+      "coingeckoTokenId": "bridged-usd-coin-base"
     },
     {
       "name": "DAI Stablecoin Token",
@@ -150,7 +152,7 @@
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/33480/standard/Seamless_Logo_Black_Transparent.png?1702019657",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/7a0b25f64d57504139e6b425ba93a1973c89fbfa/images/SEAM.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x11E438B489e9e97e0252acd83AaA0a57AB611911"
     },
@@ -160,7 +162,7 @@
       "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/31970/standard/OVN.png?1696959174",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/d4e1b42de15284343d047629699c05779de26b8e/images/OVN.svg",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x4F993cA764E9a4Ae76d27eB488cfD252Ac909f8d"
     },
@@ -204,6 +206,7 @@
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93DcFBE3174e5EFE65687ba5331626f44DC5e4dD"
     },
+
     {
       "name": "Axelar Wrapped Bitcoin",
       "symbol": "axlWBTC",
@@ -264,9 +267,10 @@
       "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usd%2B.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/fd33e52868f183d366054eaaf427a343c41ee9aa/images/USD+.svg",
       "useDexscreener": true,
-      "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A"
+      "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A",
+      "isStableCoin": true
     },
     {
       "name": "DAI+",
@@ -275,7 +279,8 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/dai%2B.png",
-      "coingeckoTokenId": "overnight-dai"
+      "coingeckoTokenId": "overnight-dai",
+      "isStableCoin": true
     },
     {
       "name": "Basin Protocol",
@@ -293,7 +298,8 @@
       "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/26476/standard/uausdc_D_3x.png?1696525548"
+      "logoURI": "https://assets.coingecko.com/coins/images/26476/standard/uausdc_D_3x.png?1696525548",
+      "isStableCoin": true
     },
     {
       "name": "Wrapped Ether",
@@ -301,7 +307,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://coinwatch.finance/images/coin/wrapped-ether.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/ETH.webp",
       "coingeckoTokenId": "ethereum",
       "isQuoteToken": true
     },
@@ -321,7 +327,7 @@
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/e795e1fd73f94fbf6943ac043e94fd9c1dcbc40b/images/USDC.svg",
       "isQuoteToken": true,
       "isStableCoin": true
     },
@@ -350,7 +356,7 @@
       "address": "0x23432452b720c80553458496d4d9d7c5003280d0",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13423/standard/Frax_Shares_icon.png?1696513183",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/86f05b4e5856203169dba64b26e6165e1be8dfa9/images/FXS.svg",
       "coingeckoTokenId": "frax-share"
     },
     {
@@ -368,8 +374,17 @@
       "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/28285/standard/sfrxETH_icon.png?1696527285",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/86f05b4e5856203169dba64b26e6165e1be8dfa9/images/sfrxETH.svg",
       "coingeckoTokenId": "staked-frax-ether"
+    },
+    {
+      "name": "Aerodrome",
+      "symbol": "AERO",
+      "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/aero.png?raw=true",
+      "coingeckoTokenId": "aerodrome-finance"
     },
     {
       "name": "USD Coin",
@@ -377,7 +392,8 @@
       "address": "0x7b4Adf64B0d60fF97D672E473420203D52562A84",
       "chainId": 84531,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "isStableCoin": true
     },
     {
       "name": "The Void",
@@ -385,7 +401,9 @@
       "address": "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xB14e941D34d61ae251Ccc08AC15B8455AE9F60A5"
     },
     {
       "name": "Cortana",
@@ -410,7 +428,9 @@
       "address": "0xA23dD9379F2E12D9ce76eC738b9f5e520d1D861c",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x1467e6871afdEd1fFAD48919E593d9f130C59739"
     },
     {
       "name": "Bald Wif Hat",
@@ -468,14 +488,23 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/doginme.png"
     },
-    
+
     {
       "name": "CIRCLE",
       "symbol": "CIRCLE",
       "address": "0x5baBfc2F240bc5De90Eb7e19D789412dB1dEc402",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/circle.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CIRCLE.png?raw=true"
+    },
+    {
+      "name": "Wrapped liquid staker Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/wstETH.png?raw=true",
+      "coingeckoTokenId": "wrapped-steth"
     },
     {
       "name": "The Doge NFT",
@@ -507,7 +536,101 @@
       "address": "0x90678C02823b21772fa7e91B27EE70490257567B",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/altitude.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xD57f6e7D7eC911bA8deFCf93d3682BB76959e950"
+    },
+    {
+      "name": "Dancing Wolf",
+      "symbol": "WOLF",
+      "address": "0x00ef65Dc955f05d8B9135afa6CB07B0b6061A933",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/WOLF.png?raw=true"
+    },
+    {
+      "name": "Crash",
+      "symbol": "CRASH",
+      "address": "0x4DD9077269Dd08899f2A9E73507125962b5BC87f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CRASH.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xf012e803c8e73d185AC96d6C3F830893A1116E03"
+    },
+    {
+      "name": "Basenji",
+      "symbol": "BENJI",
+      "address": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BENJI.jpg",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x16905890A1D02b6F824387419319Bf4188B961b0"
+    },
+    {
+      "name": "Mister Miggles",
+      "symbol": "MIGGLES",
+      "address": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/MIGGLES.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xBCff421d06c165159f6b6895982C9Ea23B781E42"
+    },
+    {
+      "name": "Baby Brett",
+      "symbol": "BBRETT",
+      "address": "0xBE5614875952b1683cb0A2C20E6509be46d353a4",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BBRETT.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x05511784Abc6e20B3F206101bb48D222771Ebd85"
+    }, 
+    {
+      "name": "Flux YIN",
+      "symbol": "YIN",
+      "address": "0xecb36ff12cbe4710e9be2411de46e6c180a4807f",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/YIN.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xA05dB5EbEd9902A1A14a4787c7F60549D5336488"
+    }, 
+    {
+      "name": "GameStop",
+      "symbol": "GME",
+      "address": "0xbeB0fd48C2BA0F1AacaD2814605f09e08A96B94E",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/GME.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x93efF1F9142F3A00B284876AD37E0cDD87C67477"
+    }, 
+    {
+      "name": "USDz",
+      "symbol": "USDz",
+      "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDz.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xdE5Ff829fEF54d1BdEc957D9538A306f0EAD1368"
+    }, 
+    {
+      "name": "REHTE",
+      "symbol": "REHTE",
+      "address": "0x25e58984a39eb5aac0b66110bc3ca03fc0e5832d",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/REHTE.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x91a12590527cf3C14664b6848C95fD2303b069cD"
     }
+
+
+    
+    
   ]
 }
