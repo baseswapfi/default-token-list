@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "address": "0x4200000000000000000000000000000000000006",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://coinwatch.finance/images/coin/wrapped-ether.png",
+    "coingeckoTokenId": "ethereum",
+    "isQuoteToken": true
+  },
+  {
+    "name": "Tether",
+    "symbol": "USDT",
+    "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+    "isStableCoin": true,
+    "isQuoteToken": true
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+    "coingeckoTokenId": "usd-coin",
+    "isQuoteToken": true,
+    "isStableCoin": true
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC.e",
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+    "coingeckoTokenId": "usd-coin",
+    "isQuoteToken": true,
+    "isStableCoin": true
+  },
+  {
+    "name": "DAI Stablecoin Token",
+    "symbol": "DAI",
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996",
+    "isQuoteToken": true,
+    "isStableCoin": true
+  },
+  {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13422/standard/FRAX_icon.png?1696513182",
+    "isQuoteToken": true,
+    "isStableCoin": true
+  },
+  {
+    "name": "USD+",
+    "symbol": "USD+",
+    "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usd%2B.png",
+    "coingeckoTokenId": "overnight-fi-usd-optimism",
+    "isQuoteToken": true,
+    "isStableCoin": true
+  },
+  {
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14287/standard/dola.png?1696513984",
+    "coingeckoTokenId": "dola-usd",
+    "isQuoteToken": true,
+    "isStableCoin": true
+  },
+  {
+    "name": "Synth sUSD",
+    "symbol": "sUSD",
+    "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37867/standard/sus.png?1715815715",
+    "coingeckoTokenId": "susd-optimism",
+    "isStableCoin": true
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "chainId": 10,
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+    "isQuoteToken": true
+  },
+  {
+    "name": "Chainlink Token",
+    "symbol": "LINK",
+    "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/standard/chainlink-new-logo.png?1696502009",
+    "coingeckoTokenId": "chainlink"
+  },
+  {
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31069/standard/worldcoin.jpeg?1696529903",
+    "coingeckoTokenId": "worldcoin-wld"
+  },
+  {
+    "name": "Optimism tBTC V2",
+    "symbol": "tBTC",
+    "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11224/standard/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155",
+    "coingeckoTokenId": "tbtc"
+  },
+  {
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27008/standard/cbeth.png?1709186989",
+    "coingeckoTokenId": "coinbase-wrapped-staked-eth"
+  },
+  {
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/standard/wstETH.png?1696518295",
+    "coingeckoTokenId": "wrapped-steth"
+  },
+  {
+    "name": "Optimism",
+    "symbol": "OP",
+    "address": "0x4200000000000000000000000000000000000042",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png?1696524385",
+    "coingeckoTokenId": "optimism"
+  },
+  {
+    "name": "Renzo Restaked ETH",
+    "symbol": "ezETH",
+    "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34753/standard/eth_renzo_logo_%281%29.png?1705956747",
+    "coingeckoTokenId": "renzo-restaked-eth"
+  },
+  {
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28285/standard/sfrxETH_icon.png?1696527285",
+    "coingeckoTokenId": "staked-frax-ether"
+  },
+  {
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png?1696527284",
+    "coingeckoTokenId": "frax-ether"
+  },
+  {
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13423/standard/Frax_Shares_icon.png?1696513183",
+    "coingeckoTokenId": "frax-share"
+  },
+  {
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "address": "0x99C59ACeBFEF3BBFB7129DC90D1a11DB0E91187f",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/31924/standard/pyth.png?1701245725",
+    "coingeckoTokenId": "pyth-network"
+  },
+  {
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13573/standard/Lido_DAO.png?1696513326",
+    "coingeckoTokenId": "lido-dao"
+  },
+  {
+    "name": "Wormhole Token",
+    "symbol": "W",
+    "address": "0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35087/standard/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954",
+    "coingeckoTokenId": "wormhole"
+  },
+  {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15069/standard/Pendle_Logo_Normal-03.png?1696514728",
+    "coingeckoTokenId": "pendle"
+  },
+  {
+    "name": "1Inch Token",
+    "symbol": "1INCH",
+    "address": "0xAd42D013ac31486B73b6b059e748172994736426",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13469/standard/1inch-token.png?1696513230",
+    "coingeckoTokenId": "1inch"
+  },
+  {
+    "name": "Balancer",
+    "symbol": "BAL",
+    "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11683/standard/Balancer.png?1696511572",
+    "coingeckoTokenId": "balancer"
+  },
+  {
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3406/standard/SNX.png?1696504103",
+    "coingeckoTokenId": "havven"
+  },
+  {
+    "name": "WOO",
+    "symbol": "WOO",
+    "address": "0x871f2F2ff935FD1eD867842FF2a7bfD051A5E527",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12921/standard/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709",
+    "coingeckoTokenId": "woo-network"
+  },
+  {
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "address": "0xC81D1F0EB955B0c020E5d5b264E1FF72c14d1401",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2090/standard/rocket_pool_%28RPL%29.png?1696503058",
+    "coingeckoTokenId": "rocket-pool"
+  },
+  {
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "address": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11849/standard/yearn.jpg?1696511720",
+    "coingeckoTokenId": "yearn-finance"
+  },
+  {
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "address": "0xa00E3A3511aAC35cA78530c85007AFCd31753819",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14899/standard/RwdVsGcw_400x400.jpg?1696514562",
+    "coingeckoTokenId": "kyber-network-crystal"
+  },
+  {
+    "name": "Velodrome",
+    "symbol": "VELO",
+    "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/25783/standard/velo.png?1696524870",
+    "coingeckoTokenId": "velodrome-finance"
+  },
+  {
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208",
+    "coingeckoTokenId": "layerzero"
+  },
+  {
+    "name": "TerraUSD",
+    "symbol": "UST",
+    "address": "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80",
+    "chainId": 10,
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/12681/standard/UST.png?1696512486",
+    "coingeckoTokenId": "terrausd"
+  },
+  {
+    "name": "Everclear",
+    "symbol": "NEXT",
+    "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+    "chainId": 10,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31293/standard/photo_2024-06-03_12-14-59.png?1717638614",
+    "coingeckoTokenId": "connext"
+  }
+]
