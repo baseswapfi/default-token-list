@@ -69,7 +69,7 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdbc.webp",
-      "isStableCoin": true, 
+      "isStableCoin": true,
       "coingeckoTokenId": "bridged-usd-coin-base"
     },
     {
@@ -587,7 +587,7 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/BBRETT.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x05511784Abc6e20B3F206101bb48D222771Ebd85"
-    }, 
+    },
     {
       "name": "Flux YIN",
       "symbol": "YIN",
@@ -597,7 +597,7 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/YIN.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xA05dB5EbEd9902A1A14a4787c7F60549D5336488"
-    }, 
+    },
     {
       "name": "GameStop",
       "symbol": "GME",
@@ -607,7 +607,7 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/GME.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93efF1F9142F3A00B284876AD37E0cDD87C67477"
-    }, 
+    },
     {
       "name": "USDz",
       "symbol": "USDz",
@@ -617,7 +617,7 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDz.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xdE5Ff829fEF54d1BdEc957D9538A306f0EAD1368"
-    }, 
+    },
     {
       "name": "REHTE",
       "symbol": "REHTE",
@@ -627,10 +627,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/REHTE.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x91a12590527cf3C14664b6848C95fD2303b069cD"
+    },
+    {
+      "name": "EURC",
+      "symbol": "EURC",
+      "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125",
+      "coingeckoTokenId": "euro-coin",
+      "isStableCoin": true
     }
-
-
-    
-    
   ]
 }
