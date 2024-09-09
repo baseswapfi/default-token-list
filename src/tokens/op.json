@@ -17,7 +17,8 @@
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
     "isStableCoin": true,
-    "isQuoteToken": true
+    "isQuoteToken": true,
+    "coingeckoTokenId": "tether"
   },
   {
     "name": "USDC",
