@@ -635,8 +635,7 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125",
-      "coingeckoTokenId": "euro-coin",
-      "isStableCoin": true
+      "coingeckoTokenId": "euro-coin"
     }
   ]
 }
