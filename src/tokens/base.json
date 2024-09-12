@@ -636,6 +636,15 @@
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125",
       "coingeckoTokenId": "euro-coin"
+    }, 
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/cbBTC.png",
+      "coingeckoTokenId": "coinbase-wrapped-btc"
     }
   ]
 }
