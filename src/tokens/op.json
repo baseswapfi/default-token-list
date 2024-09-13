@@ -102,7 +102,8 @@
     "chainId": 10,
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
-    "isQuoteToken": true
+    "isQuoteToken": true,
+    "coingeckoTokenId": "bitcoin"
   },
   {
     "name": "Chainlink Token",
