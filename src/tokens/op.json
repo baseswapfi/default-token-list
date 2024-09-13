@@ -50,7 +50,8 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996",
     "isQuoteToken": true,
-    "isStableCoin": true
+    "isStableCoin": true,
+    "coingeckoTokenId": "dai"
   },
   {
     "name": "Frax",
