@@ -646,6 +646,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/cbBTC.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x26F859DA14329022DbA1b87DD1998F18e3b222fe"
+    }, 
+    {
+      "name": "Akashalife",
+      "symbol": "AK1111",
+      "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": "true", 
+      "dexscreenPairAddress": "0x7F85E0C38Ba63F7236117472Fa71faf655769C8A"
     }
   ]
 }
