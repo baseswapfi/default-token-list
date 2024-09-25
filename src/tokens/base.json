@@ -8,7 +8,10 @@
   },
   "tags": {},
   "logoURI": "",
-  "keywords": ["baseswap", "default"],
+  "keywords": [
+    "baseswap",
+    "default"
+  ],
   "tokens": [
     {
       "name": "BaseSwap Token",
@@ -206,7 +209,6 @@
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93DcFBE3174e5EFE65687ba5331626f44DC5e4dD"
     },
-
     {
       "name": "Axelar Wrapped Bitcoin",
       "symbol": "axlWBTC",
@@ -488,7 +490,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/doginme.png"
     },
-
     {
       "name": "CIRCLE",
       "symbol": "CIRCLE",
@@ -654,7 +655,7 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "",
-      "useDexscreener": true, 
+      "useDexscreener": true,
       "dexscreenPairAddress": "0x7F85E0C38Ba63F7236117472Fa71faf655769C8A"
     }
   ]
