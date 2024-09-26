@@ -659,6 +659,16 @@
       "dexscreenPairAddress": "0x26F859DA14329022DbA1b87DD1998F18e3b222fe"
     },
     {
+      "name": "Tyler",
+      "symbol": "TYLER",
+      "address": "0x65e570b560027F493f2b1907e8e8e3B9546053bD",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x53b7D9B4FE0Cbb03906B8158244C3EABcD821E95"
+    },
+    {
       "name": "Akashalife",
       "symbol": "AK1111",
       "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
