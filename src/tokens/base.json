@@ -664,7 +664,7 @@
       "address": "0x65e570b560027F493f2b1907e8e8e3B9546053bD",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/TYLER.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x53b7D9B4FE0Cbb03906B8158244C3EABcD821E95"
     },
