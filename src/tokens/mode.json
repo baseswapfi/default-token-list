@@ -140,7 +140,6 @@
     "useDexscreener": true,
     "dexscreenPairAddress": "0x35320a94F0a6Eb95815E195B1C0AcfCd0bB34C7f"
   },
-
   {
     "name": "Tether",
     "symbol": "USDT",
@@ -178,7 +177,7 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/898b3eee2c1a2b4bfa0c504992d0314388186a1f/images/inETH.png",
-    "useDexscreener": true, 
+    "useDexscreener": true,
     "dexscreenPairAddress": "0xBEd8709745125B87F2F9cB74b1bF43188E60AA05"
   },
   {
@@ -245,7 +244,7 @@
     "chainId": 34443,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/inETH.png?raw=true",
-    "useDexscreener": "true", 
+    "useDexscreener": "true",
     "dexscreenPairAddress": "0x8c003a24Fe5430f3EF87A12EE2BF6566F7d5AE46"
   },
   {
