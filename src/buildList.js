@@ -4,6 +4,7 @@ const mode = require('./tokens/mode.json');
 const op = require('./tokens/op.json');
 const modeTestnet = require('./tokens/mode-testnet.json');
 const soneiumTestnet = require('./tokens/soneium-testnet.json');
+const arb = require('./tokens/arbitrum.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -18,7 +19,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: '',
     keywords: ['baseswap', 'default'],
-    tokens: [...mode, ...modeTestnet, ...base.tokens, ...op, ...soneiumTestnet]
+    tokens: [...mode, ...modeTestnet, ...base.tokens, ...op, ...soneiumTestnet, ...arb]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
