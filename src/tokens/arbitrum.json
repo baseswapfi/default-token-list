@@ -1,6 +1,6 @@
 [
   {
-    "name": "Arbitrum Exchange",
+    "name": "Arbidex Token",
     "symbol": "ARX",
     "address": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
     "chainId": 42161,
@@ -8,6 +8,17 @@
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/arbidex.png",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x7Ed8FD9D4bb2562b4F53D1A62C2CD30b698cB2e8"
+  },
+  {
+    "name": "Arbidex Escrowed Token",
+    "symbol": "xARX",
+    "address": "0xa954A31137fBe5c2D384A0067DE042bAA58b3403",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/xarx.png",
+    "useDexscreener": true,
+    "dexscreenPairAddress": "0x7Ed8FD9D4bb2562b4F53D1A62C2CD30b698cB2e8",
+    "tradeable": false
   },
   {
     "name": "Bridged USDC",
