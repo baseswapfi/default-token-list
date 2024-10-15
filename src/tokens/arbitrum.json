@@ -17,7 +17,8 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/usdce.png",
     "isQuoteToken": true,
-    "isStableCoin": true
+    "isStableCoin": true,
+    "coingeckoTokenId": "usd-coin"
   },
   {
     "name": "USDC Stablecoin",
@@ -27,7 +28,8 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/e795e1fd73f94fbf6943ac043e94fd9c1dcbc40b/images/USDC.svg",
     "isQuoteToken": true,
-    "isStableCoin": true
+    "isStableCoin": true,
+    "coingeckoTokenId": "usd-coin"
   },
   {
     "name": "USDT Stablecoin",
@@ -37,7 +39,8 @@
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
     "isStableCoin": true,
-    "isQuoteToken": true
+    "isQuoteToken": true,
+    "coingeckoTokenId": "tether"
   },
   {
     "name": "Wrapped Bitcoin",
@@ -46,7 +49,8 @@
     "chainId": 42161,
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
-    "isQuoteToken": true
+    "isQuoteToken": true,
+    "coingeckoTokenId": "bitcoin"
   },
   {
     "name": "Wrapped ETH",
@@ -55,7 +59,8 @@
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https:/arbidex.fi/images/tokens/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-    "isQuoteToken": true
+    "isQuoteToken": true,
+    "coingeckoTokenId": "ethereum"
   },
   {
     "name": "Dai Stablecoin",
@@ -65,7 +70,8 @@
     "decimals": 18,
     "logoURI": "https:/arbidex.fi/images/tokens/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
     "isQuoteToken": true,
-    "isStableCoin": true
+    "isStableCoin": true,
+    "coingeckoTokenId": "dai"
   },
   {
     "name": "Frax",
@@ -74,7 +80,8 @@
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https:/arbidex.fi/images/tokens/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
-    "isStableCoin": true
+    "isStableCoin": true,
+    "coingeckoTokenId": "frax"
   },
   {
     "name": "GMX",
@@ -111,8 +118,8 @@
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/fd33e52868f183d366054eaaf427a343c41ee9aa/images/USD+.svg",
     "useDexscreener": true,
-    "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A",
-    "isStableCoin": true
+    "isStableCoin": true,
+    "coingeckoTokenId": "overnight-fi-usd-arbitrum-one"
   },
   {
     "name": "DAI+",
