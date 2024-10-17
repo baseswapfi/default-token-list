@@ -6,8 +6,7 @@
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/arbidex.png",
-    "useDexscreener": true,
-    "dexscreenPairAddress": "0x62FdDfC2D4b35aDec79c6082CA2894eAb01aC0db"
+    "coingeckoTokenId": "arbitrum-exchange"
   },
   {
     "name": "Arbidex Escrowed Token",
@@ -16,8 +15,7 @@
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/xarx.png",
-    "useDexscreener": true,
-    "dexscreenPairAddress": "0x62FdDfC2D4b35aDec79c6082CA2894eAb01aC0db",
+    "coingeckoTokenId": "arbitrum-exchange", 
     "tradeable": false
   },
   {
