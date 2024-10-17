@@ -7,7 +7,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/arbidex.png",
     "useDexscreener": true,
-    "dexscreenPairAddress": "0x7Ed8FD9D4bb2562b4F53D1A62C2CD30b698cB2e8"
+    "dexscreenPairAddress": "0x62FdDfC2D4b35aDec79c6082CA2894eAb01aC0db"
   },
   {
     "name": "Arbidex Escrowed Token",
@@ -17,7 +17,7 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/xarx.png",
     "useDexscreener": true,
-    "dexscreenPairAddress": "0x7Ed8FD9D4bb2562b4F53D1A62C2CD30b698cB2e8",
+    "dexscreenPairAddress": "0x62FdDfC2D4b35aDec79c6082CA2894eAb01aC0db",
     "tradeable": false
   },
   {
@@ -182,7 +182,7 @@
     "name": "Wrapped eETH",
     "symbol": "weETH",
     "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
-    "chainId": 34443,
+    "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/057d466479e818ca2ecec1f1ca270901647fcbfb/images/weETH.png",
     "coingeckoTokenId": "wrapped-eeth"
