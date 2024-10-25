@@ -669,6 +669,16 @@
       "dexscreenPairAddress": "0x53b7D9B4FE0Cbb03906B8158244C3EABcD821E95"
     },
     {
+      "name": "RUSSELL",
+      "symbol": "RUSSELL",
+      "address": "0x0C5142BC58f9A61AB8C3D2085DD2F4e550c5cE0B",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/RUSSELL.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xf57ed21D0fC31b6bC0ef88Fd383f38CcaE35aD1d"
+    },
+    {
       "name": "Akashalife",
       "symbol": "AK1111",
       "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
