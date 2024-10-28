@@ -679,6 +679,26 @@
       "dexscreenPairAddress": "0xf57ed21D0fC31b6bC0ef88Fd383f38CcaE35aD1d"
     },
     {
+      "name": "Luna by Virtuals",
+      "symbol": "LUNA",
+      "address": "0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/LUNA.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xa8e64FB120CE8796594670BAE72279C8aA1e5359"
+    },
+    {
+      "name": "Virtual Protocol",
+      "symbol": "VIRTUAL",
+      "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/VIRTUAL.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x8e0A7d4018fb2674346d5742055174f899Fe1826"
+    },
+    {
       "name": "Akashalife",
       "symbol": "AK1111",
       "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
