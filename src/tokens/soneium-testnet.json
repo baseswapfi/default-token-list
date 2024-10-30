@@ -26,6 +26,7 @@
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
     "isQuoteToken": true,
-    "isStableCoin": true
+    "isStableCoin": true, 
+    "coingeckoTokenId": "usd-coin"
   }
 ]
