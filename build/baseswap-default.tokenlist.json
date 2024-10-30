@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-10-30T14:55:27.775Z",
+  "timestamp": "2024-10-30T16:15:33.266Z",
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "",
@@ -406,7 +406,7 @@
       "tradeable": false
     },
     {
-      "name": "USDC",
+      "name": "Bridged USDC",
       "symbol": "USDC",
       "address": "0xE9A198d38483aD727ABC8b0B1e16B2d338CF0391",
       "chainId": 1946,
@@ -415,6 +415,26 @@
       "isQuoteToken": true,
       "isStableCoin": true,
       "coingeckoTokenId": "usd-coin"
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "address": "0xE4c743036C74026649C9Dc1b8C2Abb028BBf4C14",
+      "chainId": 1946,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+      "isQuoteToken": true,
+      "isStableCoin": true,
+      "coingeckoTokenId": "tether"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "address": "0x32b8254f669a5fa56fd4acfa141ed7243eb767b5",
+      "chainId": 1946,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+      "coingeckoTokenId": "wrapped-bitcoin"
     },
     {
       "name": "Wrapped Ether",
