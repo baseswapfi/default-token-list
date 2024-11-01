@@ -699,6 +699,15 @@
       "dexscreenPairAddress": "0x8e0A7d4018fb2674346d5742055174f899Fe1826"
     },
     {
+      "name": "Jarvis Synthetic Euro",
+      "symbol": "jEUR",
+      "address": "0x4154550f4Db74Dc38d1FE98e1F3F28ed6daD627d",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/JEUR.webp",
+      "coingeckoTokenId": "jarvis-synthetic-euro"
+    },
+    {
       "name": "Akashalife",
       "symbol": "AK1111",
       "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",

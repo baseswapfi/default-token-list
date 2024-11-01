@@ -258,6 +258,16 @@
     "coingeckoTokenId": "angle-usd"
   },
   {
+    "name": "Ironclad USD",
+    "symbol": "iUSD",
+    "address": "0xA70266C8F8Cf33647dcFEE763961aFf418D9E1E4",
+    "chainId": 34443,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/IUSD.png",
+    "coingeckoTokenId": "ironclad-usd"
+  },
+  
+  {
     "name": "EURA",
     "symbol": "EURA",
     "address": "0x00001063a5d3A9d5f1B03e848fa788aae1d98C5c",
