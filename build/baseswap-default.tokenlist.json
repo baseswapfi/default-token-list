@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-11-01T14:51:49.639Z",
+  "timestamp": "2024-11-06T15:15:30.333Z",
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "",
@@ -1053,6 +1053,15 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/usdebt.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x1467e6871afdEd1fFAD48919E593d9f130C59739"
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+      "coingeckoTokenId": "tether"
     },
     {
       "name": "USDz",

@@ -708,6 +708,15 @@
       "coingeckoTokenId": "jarvis-synthetic-euro"
     },
     {
+      "name": "Tether",
+      "symbol": "USDT",
+      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
+      "coingeckoTokenId": "tether"
+    },
+    {
       "name": "Akashalife",
       "symbol": "AK1111",
       "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
