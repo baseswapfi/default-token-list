@@ -15,7 +15,7 @@
     "chainId": 42161,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/xarx.png",
-    "coingeckoTokenId": "arbitrum-exchange", 
+    "coingeckoTokenId": "arbitrum-exchange",
     "tradeable": false
   },
   {
@@ -126,7 +126,6 @@
     "chainId": 42161,
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/fd33e52868f183d366054eaaf427a343c41ee9aa/images/USD+.svg",
-    "useDexscreener": true,
     "isStableCoin": true,
     "coingeckoTokenId": "overnight-fi-usd-arbitrum-one"
   },
