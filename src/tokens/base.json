@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "",
-  "keywords": [
-    "baseswap",
-    "default"
-  ],
+  "keywords": ["baseswap", "default"],
   "tokens": [
     {
       "name": "BaseSwap Token",
@@ -714,9 +711,9 @@
       "chainId": 8453,
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
-      "coingeckoTokenId": "tether",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0xe8598ada6b7A1a41f78C54a51cF15Bd2eb79A8e0"
+      "isStableCoin": true,
+      "isQuoteToken": true,
+      "coingeckoTokenId": "tether"
     },
     {
       "name": "Akashalife",
