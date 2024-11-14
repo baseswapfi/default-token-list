@@ -1,6 +1,6 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-11-13T18:33:47.387Z",
+  "timestamp": "2024-11-14T20:54:10.378Z",
   "version": {
     "major": 1,
     "minor": 5,
@@ -1559,6 +1559,16 @@
       "isQuoteToken": true,
       "isStableCoin": true,
       "coingeckoTokenId": "usd-coin"
+    },
+    {
+      "name": "USDC+",
+      "symbol": "USDC+",
+      "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDC+.webp",
+      "isStableCoin": true,
+      "coingeckoTokenId": "usdc-overnight-fi"
     },
     {
       "name": "Bridged USDC",
