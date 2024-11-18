@@ -129,17 +129,6 @@
     "isStableCoin": true,
     "coingeckoTokenId": "overnight-fi-usd-arbitrum-one"
   },
-  
-  {
-    "name": "USDC+",
-    "symbol": "USDC+",
-    "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
-    "chainId": 42161,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDC+.webp",
-    "isStableCoin": true,
-    "coingeckoTokenId": "usdc-overnight-fi"
-  },
   {
     "name": "DAI+",
     "symbol": "DAI+",

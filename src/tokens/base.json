@@ -8,7 +8,10 @@
   },
   "tags": {},
   "logoURI": "",
-  "keywords": ["baseswap", "default"],
+  "keywords": [
+    "baseswap",
+    "default"
+  ],
   "tokens": [
     {
       "name": "BaseSwap Token",
@@ -270,6 +273,16 @@
       "useDexscreener": true,
       "dexscreenPairAddress": "0x696b4d181Eb58cD4B54a59d2Ce834184Cf7Ac31A",
       "isStableCoin": true
+    },
+    {
+      "name": "USDC+",
+      "symbol": "USDC+",
+      "address": "0x85483696Cc9970Ad9EdD786b2C5ef735F38D156f",
+      "chainId": 8453,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDC+.webp",
+      "isStableCoin": true,
+      "coingeckoTokenId": "usdc-overnight-fi"
     },
     {
       "name": "DAI+",
