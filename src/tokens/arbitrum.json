@@ -129,6 +129,7 @@
     "isStableCoin": true,
     "coingeckoTokenId": "overnight-fi-usd-arbitrum-one"
   },
+  
   {
     "name": "USDC+",
     "symbol": "USDC+",
