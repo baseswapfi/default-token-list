@@ -734,9 +734,20 @@
       "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://assets.coingecko.com/coins/images/50533/standard/Akasha-CoinIcon_%283%29.png?1728206155",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x7F85E0C38Ba63F7236117472Fa71faf655769C8A"
+    }, 
+    {
+      "name": "bitoSNEED.base",
+      "symbol": "bSNEED",
+      "address": "0x14A04d7Dec9299121f7842a4446f15d04C4111d5",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/sneed.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": ""
     }
+
   ]
 }
