@@ -745,7 +745,8 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/sneed.webp",
-      "useDexscreener": false
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0xb91F70524bD55bB23538A24A6137A2679e48f883"
     }
   ]
 }

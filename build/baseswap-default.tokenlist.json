@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-11-21T14:57:08.880Z",
+  "timestamp": "2024-11-22T15:29:03.801Z",
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "",
@@ -609,7 +609,8 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/sneed.webp",
-      "useDexscreener": false
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xb91F70524bD55bB23538A24A6137A2679e48f883"
     },
     {
       "name": "BaseSwap Token",
