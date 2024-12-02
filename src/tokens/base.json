@@ -747,6 +747,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/sneed.webp",
       "useDexscreener": true, 
       "dexscreenPairAddress": "0xb91F70524bD55bB23538A24A6137A2679e48f883"
+    },
+    {
+      "name": "Joystream",
+      "symbol": "JOY",
+      "address": "0x8761155c814c807cD3CcD15B256D69D3C10f198C",
+      "chainId": 8453,
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/Joystream/design/refs/heads/master/logo/joystream/app%20icon/PNG/app_icon-1.png",
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0x63F33CAcdb31B48C8aCB00E5A893505ADB2757C1"
     }
   ]
 }

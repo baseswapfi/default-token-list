@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-11-22T15:29:03.801Z",
+  "timestamp": "2024-12-02T17:05:03.483Z",
   "version": {
     "major": 1,
     "minor": 5,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "",
@@ -828,6 +828,16 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/JEUR.webp",
       "coingeckoTokenId": "jarvis-synthetic-euro"
+    },
+    {
+      "name": "Joystream",
+      "symbol": "JOY",
+      "address": "0x8761155c814c807cD3CcD15B256D69D3C10f198C",
+      "chainId": 8453,
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/Joystream/design/refs/heads/master/logo/joystream/app%20icon/PNG/app_icon-1.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x63F33CAcdb31B48C8aCB00E5A893505ADB2757C1"
     },
     {
       "name": "Luna by Virtuals",
