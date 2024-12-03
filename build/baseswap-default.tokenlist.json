@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-03T16:32:52.177Z",
+  "timestamp": "2024-12-03T16:37:25.950Z",
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "",
@@ -669,7 +669,7 @@
       "address": "0x20d704099B62aDa091028bcFc44445041eD16f09",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x20d704099b62ada091028bcfc44445041ed16f09.png?size=lg&key=8e8ad9",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CHAOS.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x01A1f5758c3a53057B6C819Ec7331e39c167794A"
     },
@@ -687,7 +687,7 @@
       "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x1bc0c42215582d5a085795f4badbac3ff36d1bcb.png?size=xl&key=ca786e",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CLANKER.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xC1a6FBeDAe68E1472DbB91FE29B51F7a0Bd44F97"
     },
