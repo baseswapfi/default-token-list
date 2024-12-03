@@ -804,7 +804,7 @@
       "address": "0xc655C331d1Aa7f96c252F1f40CE13D80eAc53504",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MUSIC.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xCeF84D17513edE0Ab951F7BE9829E638a20BfbA4"
     },

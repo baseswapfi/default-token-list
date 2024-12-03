@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-03T16:37:25.950Z",
+  "timestamp": "2024-12-03T17:00:02.452Z",
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 6
+    "patch": 7
   },
   "tags": {},
   "logoURI": "",
@@ -909,6 +909,16 @@
       "tax": true,
       "useDexscreener": true,
       "dexscreenPairAddress": "0xbe09692245268B607c3029469d14bE06191A0566"
+    },
+    {
+      "name": "Music",
+      "symbol": "MUSIC",
+      "address": "0xc655C331d1Aa7f96c252F1f40CE13D80eAc53504",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MUSIC.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xCeF84D17513edE0Ab951F7BE9829E638a20BfbA4"
     },
     {
       "name": "Overnight Finance",
