@@ -755,9 +755,9 @@
       "chainId": 8453,
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/Joystream/design/refs/heads/master/logo/joystream/app%20icon/PNG/app_icon-1.png",
-      "useDexscreener": true, 
+      "useDexscreener": true,
       "dexscreenPairAddress": "0x63F33CAcdb31B48C8aCB00E5A893505ADB2757C1"
-    }, 
+    },
     {
       "name": "WindogeXP",
       "symbol": "XP",
@@ -765,26 +765,36 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/WINDOGE.webp"
-    }, 
+    },
     {
       "name": "PondHub",
       "symbol": "XP",
       "address": "0x6136494DB8A33707b2da36c2608994982EFA04C2",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/PONDHUB.webp", 
-      "useDexscreener": true, 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/PONDHUB.webp",
+      "useDexscreener": true,
       "dexscreenPairAddress": "0x096c104333Cb214e8c9C5eE49BEB36c62E9cf038"
-    }, 
+    },
     {
       "name": "Simmi",
       "symbol": "SIMMI",
       "address": "0x161e113B8E9BBAEfb846F73F31624F6f9607bd44",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SIMMI.webp", 
-      "useDexscreener": true, 
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SIMMI.webp",
+      "useDexscreener": true,
       "dexscreenPairAddress": "0xe9a65059E895DD5D49806f6A71B63FEd0fFffD4B"
+    }, 
+    {
+      "name": "Chaos",
+      "symbol": "CHAOS",
+      "address": "0x20d704099B62aDa091028bcFc44445041eD16f09",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x20d704099b62ada091028bcfc44445041ed16f09.png?size=lg&key=8e8ad9",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x01A1f5758c3a53057B6C819Ec7331e39c167794A"
     }
   ]
 }

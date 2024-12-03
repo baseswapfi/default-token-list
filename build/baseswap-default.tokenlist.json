@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-03T16:24:49.134Z",
+  "timestamp": "2024-12-03T16:28:27.299Z",
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "",
@@ -662,6 +662,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27008/standard/cbeth.png?1709186989",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x07CFA5Df24fB17486AF0CBf6C910F24253a674D3"
+    },
+    {
+      "name": "Chaos",
+      "symbol": "CHAOS",
+      "address": "0x20d704099B62aDa091028bcFc44445041eD16f09",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x20d704099b62ada091028bcfc44445041ed16f09.png?size=lg&key=8e8ad9",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x01A1f5758c3a53057B6C819Ec7331e39c167794A"
     },
     {
       "name": "CIRCLE",
