@@ -757,6 +757,14 @@
       "logoURI": "https://raw.githubusercontent.com/Joystream/design/refs/heads/master/logo/joystream/app%20icon/PNG/app_icon-1.png",
       "useDexscreener": true, 
       "dexscreenPairAddress": "0x63F33CAcdb31B48C8aCB00E5A893505ADB2757C1"
+    }, 
+    {
+      "name": "WindogeXP",
+      "symbol": "XP",
+      "address": "0x5fA96DdfBD4633FEb33212c934b8a8c1D061ab8f",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/WINDOGE.webp"
     }
   ]
 }
