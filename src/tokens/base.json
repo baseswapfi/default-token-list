@@ -759,14 +759,6 @@
       "dexscreenPairAddress": "0x63F33CAcdb31B48C8aCB00E5A893505ADB2757C1"
     },
     {
-      "name": "WindogeXP",
-      "symbol": "XP",
-      "address": "0x5fA96DdfBD4633FEb33212c934b8a8c1D061ab8f",
-      "chainId": 8453,
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/WINDOGE.webp"
-    },
-    {
       "name": "PondHub",
       "symbol": "XP",
       "address": "0x6136494DB8A33707b2da36c2608994982EFA04C2",
@@ -795,6 +787,24 @@
       "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x20d704099b62ada091028bcfc44445041ed16f09.png?size=lg&key=8e8ad9",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x01A1f5758c3a53057B6C819Ec7331e39c167794A"
+    },
+    {
+      "name": "Clanker",
+      "symbol": "CLANKER",
+      "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://dd.dexscreener.com/ds-data/tokens/base/0x1bc0c42215582d5a085795f4badbac3ff36d1bcb.png?size=xl&key=ca786e",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xC1a6FBeDAe68E1472DbB91FE29B51F7a0Bd44F97"
+    },
+    {
+      "name": "WindogeXP",
+      "symbol": "XP",
+      "address": "0x5fA96DdfBD4633FEb33212c934b8a8c1D061ab8f",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/WINDOGE.webp"
     }
   ]
 }
