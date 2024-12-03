@@ -775,6 +775,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/PONDHUB.webp", 
       "useDexscreener": true, 
       "dexscreenPairAddress": "0x096c104333Cb214e8c9C5eE49BEB36c62E9cf038"
+    }, 
+    {
+      "name": "Simmi",
+      "symbol": "SIMMI",
+      "address": "0x161e113B8E9BBAEfb846F73F31624F6f9607bd44",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "", 
+      "useDexscreener": true, 
+      "dexscreenPairAddress": "0xe9a65059E895DD5D49806f6A71B63FEd0fFffD4B"
     }
   ]
 }
