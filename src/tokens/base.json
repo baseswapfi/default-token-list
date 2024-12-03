@@ -737,7 +737,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50533/standard/Akasha-CoinIcon_%283%29.png?1728206155",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x7F85E0C38Ba63F7236117472Fa71faf655769C8A"
-    }, 
+    },
     {
       "name": "bitoSNEED.base",
       "symbol": "bSNEED",
@@ -745,7 +745,7 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/sneed.webp",
-      "useDexscreener": true, 
+      "useDexscreener": true,
       "dexscreenPairAddress": "0xb91F70524bD55bB23538A24A6137A2679e48f883"
     },
     {
@@ -777,7 +777,7 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SIMMI.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xe9a65059E895DD5D49806f6A71B63FEd0fFffD4B"
-    }, 
+    },
     {
       "name": "Chaos",
       "symbol": "CHAOS",
@@ -815,6 +815,16 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/WINDOGE.webp"
+    },
+    {
+      "name": "AIXBT",
+      "symbol": "AIXBT",
+      "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/bfe6539dcc5200a8fefb83c01d0e87f570bf9d5d/images/aixbt.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
     }
   ]
 }

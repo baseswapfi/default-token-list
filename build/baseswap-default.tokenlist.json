@@ -921,6 +921,16 @@
       "dexscreenPairAddress": "0xCeF84D17513edE0Ab951F7BE9829E638a20BfbA4"
     },
     {
+      "name": "AIXBT",
+      "symbol": "AIXBT",
+      "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/bfe6539dcc5200a8fefb83c01d0e87f570bf9d5d/images/aixbt.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
+    },
+    {
       "name": "Overnight Finance",
       "symbol": "OVN",
       "address": "0xA3d1a8DEB97B111454B294E2324EfAD13a9d8396",
@@ -1538,15 +1548,6 @@
       "symbol": "ARX",
       "address": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
       "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/arbidex.png",
-      "coingeckoTokenId": "arbitrum-exchange"
-    },
-    {
-      "name": "AIXBT",
-      "symbol": "AIXBT",
-      "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
-      "chainId": 34443,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/arbidex.png",
       "coingeckoTokenId": "arbitrum-exchange"
