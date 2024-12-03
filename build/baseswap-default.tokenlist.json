@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-03T16:21:32.347Z",
+  "timestamp": "2024-12-03T16:24:49.134Z",
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "",
@@ -983,6 +983,16 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/86f05b4e5856203169dba64b26e6165e1be8dfa9/images/sfrxETH.svg",
       "coingeckoTokenId": "staked-frax-ether"
+    },
+    {
+      "name": "Simmi",
+      "symbol": "SIMMI",
+      "address": "0x161e113B8E9BBAEfb846F73F31624F6f9607bd44",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SIMMI.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xe9a65059E895DD5D49806f6A71B63FEd0fFffD4B"
     },
     {
       "name": "SweepCoin",
