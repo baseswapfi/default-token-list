@@ -760,7 +760,7 @@
     },
     {
       "name": "PondHub",
-      "symbol": "XP",
+      "symbol": "PH",
       "address": "0x6136494DB8A33707b2da36c2608994982EFA04C2",
       "chainId": 8453,
       "decimals": 18,
