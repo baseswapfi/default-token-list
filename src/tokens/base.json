@@ -799,6 +799,16 @@
       "dexscreenPairAddress": "0xcb2edC5e123689A3421aA033602209182A5d62C6"
     },
     {
+      "name": "Fuego",
+      "symbol": "FUEGO",
+      "address": "0x36912b5cf63E509f18E53ac98B3012Fa79e77bf5",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x2bbFb5A2496f405d4094D4b854DAeb9CE70D0029"
+    },
+    {
       "name": "Clanker",
       "symbol": "CLANKER",
       "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
