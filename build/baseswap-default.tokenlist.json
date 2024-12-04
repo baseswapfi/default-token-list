@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-04T15:35:50.195Z",
+  "timestamp": "2024-12-04T15:53:05.407Z",
   "version": {
     "major": 1,
     "minor": 7,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "",
@@ -707,7 +707,7 @@
       "address": "0xccc7e9b7a1e2fa193683f23e23c495ecde3c4db8",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/cortana.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CORTANA.webp"
     },
     {
       "name": "Crash",
@@ -1130,7 +1130,7 @@
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/e795e1fd73f94fbf6943ac043e94fd9c1dcbc40b/images/USDC.svg",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/USDC.svg",
       "isQuoteToken": true,
       "isStableCoin": true
     },
@@ -1423,7 +1423,7 @@
       "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
       "chainId": 34443,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/898e414c81627ab57f3c41ef96f3c937be7922ed/images/MOLTEN.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MOLTEN.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x08262cDCb559dC08d34C95D5CA989BD57f721B20"
     },
@@ -1674,7 +1674,7 @@
       "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
       "chainId": 42161,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDCE.webp",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/USDC.svg",
       "isQuoteToken": true,
       "isStableCoin": true,
       "coingeckoTokenId": "usd-coin"
