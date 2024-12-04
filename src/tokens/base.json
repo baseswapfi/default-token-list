@@ -804,7 +804,7 @@
       "address": "0x36912b5cf63E509f18E53ac98B3012Fa79e77bf5",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FUEGO.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x2bbFb5A2496f405d4094D4b854DAeb9CE70D0029"
     },
