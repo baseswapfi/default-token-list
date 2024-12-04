@@ -498,7 +498,7 @@
       "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/doginme.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/DOGINME.webp"
     },
     {
       "name": "CIRCLE",
@@ -539,7 +539,7 @@
       "address": "0x9Ee4Ed687d1Ae6Fc3a7a427adD25c6356876af6C",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/fink.jpg"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FINK.webp"
     },
     {
       "name": "Altitude",

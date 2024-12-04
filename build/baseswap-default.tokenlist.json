@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-04T16:37:06.977Z",
+  "timestamp": "2024-12-04T16:39:51.809Z",
   "version": {
     "major": 1,
     "minor": 7,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "",
@@ -773,7 +773,7 @@
       "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/doginme.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/DOGINME.webp"
     },
     {
       "name": "DONNIE",
@@ -808,7 +808,7 @@
       "address": "0x9Ee4Ed687d1Ae6Fc3a7a427adD25c6356876af6C",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/fink.jpg"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FINK.webp"
     },
     {
       "name": "Fren Pet",
