@@ -832,7 +832,7 @@
       "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/AIXBT.webp",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/AIX.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
     }
