@@ -799,14 +799,14 @@
       "dexscreenPairAddress": "0xC1a6FBeDAe68E1472DbB91FE29B51F7a0Bd44F97"
     },
     {
-      "name": "Ski",
+      "name": "Ski Mask Dog",
       "symbol": "SKI",
       "address": "0x768BE13e1680b5ebE0024C42c896E3dB59ec0149",
       "chainId": 8453,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SKI.webp",
       "useDexscreener": true,
-      "dexscreenPairAddress": ""
+      "dexscreenPairAddress": "0x6d6391B9bD02Eefa00FA711fB1Cb828A6471d283"
     },
     {
       "name": "Music",
