@@ -185,7 +185,7 @@
       "address": "0x546D239032b24eCEEE0cb05c92FC39090846adc7",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/seed.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SEED.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xAA6a81A7df94DAb346e2d677225caD47220540C5"
     },
@@ -531,7 +531,7 @@
       "address": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/brett.png"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/BRETT.webp"
     },
     {
       "name": "FINK",
