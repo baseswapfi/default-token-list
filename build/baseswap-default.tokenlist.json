@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-04T15:11:49.586Z",
+  "timestamp": "2024-12-04T15:16:49.673Z",
   "version": {
     "major": 1,
-    "minor": 6,
-    "patch": 9
+    "minor": 7,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "",
@@ -1043,6 +1043,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SIMMI.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xe9a65059E895DD5D49806f6A71B63FEd0fFffD4B"
+    },
+    {
+      "name": "Ski Mask Dog",
+      "symbol": "SKI",
+      "address": "0x768BE13e1680b5ebE0024C42c896E3dB59ec0149",
+      "chainId": 8453,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SKI.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x6d6391B9bD02Eefa00FA711fB1Cb828A6471d283"
     },
     {
       "name": "SweepCoin",
