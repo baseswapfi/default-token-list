@@ -76,7 +76,7 @@
     "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
     "chainId": 34443,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/898e414c81627ab57f3c41ef96f3c937be7922ed/images/MOLTEN.png",
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MOLTEN.webp",
     "useDexscreener": true,
     "dexscreenPairAddress": "0x08262cDCb559dC08d34C95D5CA989BD57f721B20"
   },
