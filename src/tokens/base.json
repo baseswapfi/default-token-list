@@ -51,7 +51,7 @@
       "address": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/boge.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/BOGE.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xBF5F6359745298eE65c52A32BE5fe9FafB1B434D"
     },
@@ -557,7 +557,7 @@
       "address": "0x00ef65Dc955f05d8B9135afa6CB07B0b6061A933",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/WOLF.png?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/WOLF.webp"
     },
     {
       "name": "Crash",
