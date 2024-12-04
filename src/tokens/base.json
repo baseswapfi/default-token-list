@@ -423,7 +423,7 @@
       "address": "0xccc7e9b7a1e2fa193683f23e23c495ecde3c4db8",
       "chainId": 8453,
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CORTANA.webp"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CORTANA.webp"
     },
     {
       "name": "Bumpies Brawl Quest Token",
