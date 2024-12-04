@@ -799,6 +799,16 @@
       "dexscreenPairAddress": "0xC1a6FBeDAe68E1472DbB91FE29B51F7a0Bd44F97"
     },
     {
+      "name": "Ski",
+      "symbol": "SKI",
+      "address": "0x768BE13e1680b5ebE0024C42c896E3dB59ec0149",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SKI.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": ""
+    },
+    {
       "name": "Music",
       "symbol": "MUSIC",
       "address": "0xc655C331d1Aa7f96c252F1f40CE13D80eAc53504",
