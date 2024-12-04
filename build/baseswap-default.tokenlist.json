@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-04T16:30:20.384Z",
+  "timestamp": "2024-12-04T16:37:06.977Z",
   "version": {
     "major": 1,
     "minor": 7,
-    "patch": 6
+    "patch": 7
   },
   "tags": {},
   "logoURI": "",
@@ -689,7 +689,7 @@
       "address": "0x5baBfc2F240bc5De90Eb7e19D789412dB1dEc402",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/CIRCLE.png?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CIRCLE.webp"
     },
     {
       "name": "Clanker",
@@ -774,6 +774,16 @@
       "chainId": 8453,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/doginme.png"
+    },
+    {
+      "name": "DONNIE",
+      "symbol": "DONNIE",
+      "address": "0x37d3D61a304695619433bc05EF841E889F69Debf",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/DONNIE.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xcb2edC5e123689A3421aA033602209182A5d62C6"
     },
     {
       "name": "El Dorado Exchange",
@@ -1344,7 +1354,7 @@
       "address": "0x2BE717340023C9e14C1Bb12cb3ecBcfd3c3fB038",
       "chainId": 34443,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/19a6ce38d1f01cf03dce306daf38d674a2d865d4/images/ionUSDC.png",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/IONUSDC.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x1E3CfebFf9c68b3d2FF8fC880a22655554BeCe55"
     },

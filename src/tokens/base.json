@@ -789,6 +789,16 @@
       "dexscreenPairAddress": "0x01A1f5758c3a53057B6C819Ec7331e39c167794A"
     },
     {
+      "name": "DONNIE",
+      "symbol": "DONNIE",
+      "address": "0x37d3D61a304695619433bc05EF841E889F69Debf",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/DONNIE.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xcb2edC5e123689A3421aA033602209182A5d62C6"
+    },
+    {
       "name": "Clanker",
       "symbol": "CLANKER",
       "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
