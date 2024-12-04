@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-03T17:11:14.452Z",
+  "timestamp": "2024-12-04T15:11:49.586Z",
   "version": {
     "major": 1,
     "minor": 6,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "",
@@ -481,6 +481,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/aipepe.png"
     },
     {
+      "name": "AIXBT",
+      "symbol": "AIXBT",
+      "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/bfe6539dcc5200a8fefb83c01d0e87f570bf9d5d/images/aixbt.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
+    },
+    {
       "name": "Akashalife",
       "symbol": "AK1111",
       "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
@@ -669,7 +679,7 @@
       "address": "0x20d704099B62aDa091028bcFc44445041eD16f09",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CHAOS.webp",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/chaostoken.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x01A1f5758c3a53057B6C819Ec7331e39c167794A"
     },
@@ -919,16 +929,6 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MUSIC.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xCeF84D17513edE0Ab951F7BE9829E638a20BfbA4"
-    },
-    {
-      "name": "AIXBT",
-      "symbol": "AIXBT",
-      "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/bfe6539dcc5200a8fefb83c01d0e87f570bf9d5d/images/aixbt.png",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
     },
     {
       "name": "Overnight Finance",

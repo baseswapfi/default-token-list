@@ -784,7 +784,7 @@
       "address": "0x20d704099B62aDa091028bcFc44445041eD16f09",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CHAOS.webp",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/chaostoken.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x01A1f5758c3a53057B6C819Ec7331e39c167794A"
     },
