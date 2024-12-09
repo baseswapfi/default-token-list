@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "",
-  "keywords": [
-    "baseswap",
-    "default"
-  ],
+  "keywords": ["baseswap", "default"],
   "tokens": [
     {
       "name": "BaseSwap Token",
@@ -787,6 +784,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/chaostoken.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x01A1f5758c3a53057B6C819Ec7331e39c167794A"
+    },
+    {
+      "name": "Golden Bailey",
+      "symbol": "BAILEY",
+      "address": "0x3942caE8bb9FC8f24Fe627B30b6E7461E5662BA7",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xf2f94D4EE41D8F974DD43Ec5d8edF9Cf73358842"
     },
     {
       "name": "DONNIE",
