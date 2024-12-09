@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-04T16:52:00.967Z",
+  "timestamp": "2024-12-09T16:07:25.262Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "",
@@ -536,6 +536,16 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/28173/standard/wbtc-satoshi_D_3x.png?1696986732"
+    },
+    {
+      "name": "Golden Bailey",
+      "symbol": "BAILEY",
+      "address": "0x3942caE8bb9FC8f24Fe627B30b6E7461E5662BA7",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/BAILEY.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xf2f94D4EE41D8F974DD43Ec5d8edF9Cf73358842"
     },
     {
       "name": "Basin Protocol",

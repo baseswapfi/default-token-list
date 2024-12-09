@@ -791,7 +791,7 @@
       "address": "0x3942caE8bb9FC8f24Fe627B30b6E7461E5662BA7",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/BAILEY.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xf2f94D4EE41D8F974DD43Ec5d8edF9Cf73358842"
     },
