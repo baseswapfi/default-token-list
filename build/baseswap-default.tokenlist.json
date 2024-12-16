@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-09T16:07:25.262Z",
+  "timestamp": "2024-12-16T22:31:20.278Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "",
@@ -1093,6 +1093,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/sweep.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x2313f60D9E0f33d65A22006DD3f661c373AA2c66"
+    },
+    {
+      "name": "Symmio",
+      "symbol": "SYMM",
+      "address": "0x800822d361335b4d5F352Dac293cA4128b5B605f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SYMM.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x3eB2a8015dE1419a5089dAb37b0056F0fc24f821"
     },
     {
       "name": "Threshold Bitcoin",
