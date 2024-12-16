@@ -862,6 +862,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/AIX.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
+    },
+    {
+      "name": "Symmio",
+      "symbol": "SYMM",
+      "address": "0x800822d361335b4d5F352Dac293cA4128b5B605f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SYMM.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x3eB2a8015dE1419a5089dAb37b0056F0fc24f821"
     }
   ]
 }
