@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-16T22:31:43.276Z",
+  "timestamp": "2024-12-17T16:27:00.637Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "",
@@ -849,6 +849,16 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/86f05b4e5856203169dba64b26e6165e1be8dfa9/images/FXS.svg",
       "coingeckoTokenId": "frax-share"
+    },
+    {
+      "name": "Game by Virtuals",
+      "symbol": "GAME",
+      "address": "0x1C4CcA7C5DB003824208aDDA61Bd749e55F463a3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/GAME.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x2A36148a416cBa81699B555120Bd65f4682BDFD2"
     },
     {
       "name": "GMD Protocol",
