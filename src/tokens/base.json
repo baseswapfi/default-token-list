@@ -864,6 +864,16 @@
       "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
     },
     {
+      "name": "Game by Virtuals",
+      "symbol": "GAME",
+      "address": "0x1C4CcA7C5DB003824208aDDA61Bd749e55F463a3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x2A36148a416cBa81699B555120Bd65f4682BDFD2"
+    },
+    {
       "name": "Symmio",
       "symbol": "SYMM",
       "address": "0x800822d361335b4d5F352Dac293cA4128b5B605f",
