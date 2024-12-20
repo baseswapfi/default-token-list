@@ -874,6 +874,16 @@
       "dexscreenPairAddress": "0x2A36148a416cBa81699B555120Bd65f4682BDFD2"
     },
     {
+      "name": "Odos",
+      "symbol": "ODOS",
+      "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": " https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/ODOS.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xb7068556049df8fb3ae77ccbb9611fe0e85b2641"
+    },
+    {
       "name": "Symmio",
       "symbol": "SYMM",
       "address": "0x800822d361335b4d5F352Dac293cA4128b5B605f",

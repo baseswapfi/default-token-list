@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-20T16:43:11.490Z",
+  "timestamp": "2024-12-20T17:59:00.806Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "",
@@ -969,6 +969,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MUSIC.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xCeF84D17513edE0Ab951F7BE9829E638a20BfbA4"
+    },
+    {
+      "name": "Odos",
+      "symbol": "ODOS",
+      "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": " https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/ODOS.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xb7068556049df8fb3ae77ccbb9611fe0e85b2641"
     },
     {
       "name": "Overnight Finance",
