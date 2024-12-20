@@ -30,6 +30,15 @@
     "coingeckoTokenId": "usd-coin"
   },
   {
+    "name": "Foxify",
+    "symbol": "FOX",
+    "address": "0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230",
+    "chainId": 42161,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FOX.webp",
+    "coingeckoTokenId": "foxify"
+  },
+  {
     "name": "USDC Stablecoin",
     "symbol": "USDC",
     "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",

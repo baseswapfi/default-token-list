@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-17T16:27:00.637Z",
+  "timestamp": "2024-12-20T16:43:11.490Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "",
@@ -1632,6 +1632,15 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/dai%2B.png",
       "coingeckoTokenId": "overnight-dai",
       "isStableCoin": true
+    },
+    {
+      "name": "Foxify",
+      "symbol": "FOX",
+      "address": "0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FOX.webp",
+      "coingeckoTokenId": "foxify"
     },
     {
       "name": "Frax",
