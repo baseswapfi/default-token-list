@@ -889,7 +889,7 @@
       "address": "0x14b2f229097Df3c92B43eA871860E3FAe08D7f06",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/BANKS.webp"
     },
     {
       "name": "Candle",
@@ -897,7 +897,7 @@
       "address": "0xF184fCCE25573df753E52914E152eAE5441B6E1B",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CANDLE.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xC17E55B1aE9B31891ba5e70d59325555D37dB78C"
     },

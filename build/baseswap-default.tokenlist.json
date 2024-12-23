@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-20T17:59:00.806Z",
+  "timestamp": "2024-12-23T16:20:33.314Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "",
@@ -548,6 +548,14 @@
       "dexscreenPairAddress": "0xf2f94D4EE41D8F974DD43Ec5d8edF9Cf73358842"
     },
     {
+      "name": "Rob Banks",
+      "symbol": "BANKS",
+      "address": "0x14b2f229097Df3c92B43eA871860E3FAe08D7f06",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/BANKS.webp"
+    },
+    {
       "name": "Basin Protocol",
       "symbol": "BASIN",
       "address": "0x4788de271F50EA6f5D5D2a5072B8D3C61d650326",
@@ -710,6 +718,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CLANKER.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xC1a6FBeDAe68E1472DbB91FE29B51F7a0Bd44F97"
+    },
+    {
+      "name": "Candle",
+      "symbol": "CNDL",
+      "address": "0xF184fCCE25573df753E52914E152eAE5441B6E1B",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CANDLE.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xC17E55B1aE9B31891ba5e70d59325555D37dB78C"
     },
     {
       "name": "Cortana",
