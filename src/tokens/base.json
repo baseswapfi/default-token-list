@@ -899,7 +899,7 @@
       "address": "0x440D06b2aC83Ff743d9e149Be582A4b2b2c6adEc",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/JAVLIS.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x02F9a658c739E5BE1D38eFFF9D6dD2D80d765384"
     },
@@ -909,7 +909,7 @@
       "address": "0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/AIXCB.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x19C3c7EEfb070EE00ddE367A9768De1DF52cbE5d"
     },
@@ -919,7 +919,7 @@
       "address": "0x0521AaA7C96E25afeE79FDd4f1Bb48F008aE4eac",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FRDREAM.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x0ebcEE3165654d9c52dd6D438423bE76F2Df1b0E"
     },
@@ -929,17 +929,17 @@
       "address": "0x4f81837C2f4A189A0B69370027cc2627d93785B4",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SERAPH.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xd549f81a8Cb75B1783edF0ac6C3fc4b26272BfB4"
     },
     {
       "name": "TAOCat by Virtuals",
-      "symbol": "SERAPH",
+      "symbol": "TAOCAT",
       "address": "0x7A5f5CcD46EBd7aC30615836D988ca3BD57412b3",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/TAOCAT.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x4FC190E4DC19c8fcA5e05534d664C0aC3Fa1AaC5"
     },

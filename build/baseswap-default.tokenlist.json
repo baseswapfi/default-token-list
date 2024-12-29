@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-23T16:41:41.680Z",
+  "timestamp": "2024-12-29T14:57:35.163Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "",
@@ -491,6 +491,16 @@
       "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
     },
     {
+      "name": "aixCB by Virtuals",
+      "symbol": "AIXCB",
+      "address": "0x76C71F1703Fbf19FFdcF3051E1e684Cb9934510f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/AIXCB.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x19C3c7EEfb070EE00ddE367A9768De1DF52cbE5d"
+    },
+    {
       "name": "Akashalife",
       "symbol": "AK1111",
       "address": "0x54b659832f59c24ceC0E4A2Cd193377F1BCEfc3c",
@@ -841,6 +851,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FINK.webp"
     },
     {
+      "name": "DR3AM Fund",
+      "symbol": "FREAM",
+      "address": "0x0521AaA7C96E25afeE79FDd4f1Bb48F008aE4eac",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FRDREAM.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x0ebcEE3165654d9c52dd6D438423bE76F2Df1b0E"
+    },
+    {
       "name": "Fren Pet",
       "symbol": "FREN PET",
       "address": "0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105",
@@ -909,6 +929,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/gnd.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93DcFBE3174e5EFE65687ba5331626f44DC5e4dD"
+    },
+    {
+      "name": "Javlis by Virtuals",
+      "symbol": "JAVLIS",
+      "address": "0x440D06b2aC83Ff743d9e149Be582A4b2b2c6adEc",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/JAVLIS.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x02F9a658c739E5BE1D38eFFF9D6dD2D80d765384"
     },
     {
       "name": "Jarvis Synthetic Euro",
@@ -1087,6 +1117,16 @@
       "dexscreenPairAddress": "0xAA6a81A7df94DAb346e2d677225caD47220540C5"
     },
     {
+      "name": "Seraph by Virtuals",
+      "symbol": "SERAPH",
+      "address": "0x4f81837C2f4A189A0B69370027cc2627d93785B4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SERAPH.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xd549f81a8Cb75B1783edF0ac6C3fc4b26272BfB4"
+    },
+    {
       "name": "Staked Frax",
       "symbol": "sFRAX",
       "address": "0xe4796ccb6bb5de2290c417ac337f2b66ca2e770e",
@@ -1143,6 +1183,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SYMM.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x3eB2a8015dE1419a5089dAb37b0056F0fc24f821"
+    },
+    {
+      "name": "TAOCat by Virtuals",
+      "symbol": "TAOCAT",
+      "address": "0x7A5f5CcD46EBd7aC30615836D988ca3BD57412b3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/TAOCAT.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x4FC190E4DC19c8fcA5e05534d664C0aC3Fa1AaC5"
     },
     {
       "name": "Threshold Bitcoin",
