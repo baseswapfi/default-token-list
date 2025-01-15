@@ -944,6 +944,16 @@
       "dexscreenPairAddress": "0x4FC190E4DC19c8fcA5e05534d664C0aC3Fa1AaC5"
     },
     {
+      "name": "Prefrontal Cortex Convo Agent by Virtuals",
+      "symbol": "CONVO",
+      "address": "0xab964f7b7b6391bd6c4e8512eF00d01f255d9c0D",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CONVO.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x3268d7eFA254E648Ffe968664E47Ca226E27CD04"
+    },
+    {
       "name": "Candle",
       "symbol": "CNDL",
       "address": "0xF184fCCE25573df753E52914E152eAE5441B6E1B",

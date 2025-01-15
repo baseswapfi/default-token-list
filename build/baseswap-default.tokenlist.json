@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2024-12-29T14:57:35.163Z",
+  "timestamp": "2025-01-15T19:31:48.868Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 8
+    "patch": 9
   },
   "tags": {},
   "logoURI": "",
@@ -740,6 +740,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CANDLE.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xC17E55B1aE9B31891ba5e70d59325555D37dB78C"
+    },
+    {
+      "name": "Prefrontal Cortex Convo Agent by Virtuals",
+      "symbol": "CONVO",
+      "address": "0xab964f7b7b6391bd6c4e8512eF00d01f255d9c0D",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/CONVO.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x3268d7eFA254E648Ffe968664E47Ca226E27CD04"
     },
     {
       "name": "Cortana",
