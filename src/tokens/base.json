@@ -8,7 +8,10 @@
   },
   "tags": {},
   "logoURI": "",
-  "keywords": ["baseswap", "default"],
+  "keywords": [
+    "baseswap",
+    "default"
+  ],
   "tokens": [
     {
       "name": "BaseSwap Token",
@@ -942,6 +945,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/TAOCAT.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x4FC190E4DC19c8fcA5e05534d664C0aC3Fa1AaC5"
+    },
+    {
+      "name": "OFFICIAL TRUMP",
+      "symbol": "TRUMP",
+      "address": "0xc27468b12ffa6d714b1b5fbc87ef403f38b82ad4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/TRUMP.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x0c40e7f5b43f6759060a3c4d2fb406dfecf03b57"
     },
     {
       "name": "Prefrontal Cortex Convo Agent by Virtuals",
