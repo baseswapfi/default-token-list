@@ -1224,6 +1224,16 @@
       "dexscreenPairAddress": "0xbFC74e1De81E81B0A807469502F6662Cc238795e"
     },
     {
+      "name": "OFFICIAL TRUMP",
+      "symbol": "TRUMP",
+      "address": "0xc27468b12ffa6d714b1b5fbc87ef403f38b82ad4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/e0a907d5d63e48bd20c62fe08a1e163418cb752b/images/trump.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xb717c8a6f98b3e849ec36535c74c98c38c5d2f80"
+    },
+    {
       "name": "Tyler",
       "symbol": "TYLER",
       "address": "0x65e570b560027F493f2b1907e8e8e3B9546053bD",
