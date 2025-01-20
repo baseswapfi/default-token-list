@@ -1229,7 +1229,7 @@
       "address": "0xc27468b12ffa6d714b1b5fbc87ef403f38b82ad4",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/TRUMP.webp",
+      "logoURI": "https://github.com/baseswapfi/default-token-list/blob/e0a907d5d63e48bd20c62fe08a1e163418cb752b/images/trump.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xb717c8a6f98b3e849ec36535c74c98c38c5d2f80"
     },
