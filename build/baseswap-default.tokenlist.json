@@ -1231,7 +1231,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/TRUMP.webp",
       "useDexscreener": true,
-      "dexscreenPairAddress": "0x0c40e7f5b43f6759060a3c4d2fb406dfecf03b57"
+      "dexscreenPairAddress": "0xb717c8a6f98b3e849ec36535c74c98c38c5d2f80"
     },
     {
       "name": "Tyler",
