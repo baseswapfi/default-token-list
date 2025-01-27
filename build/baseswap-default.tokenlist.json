@@ -1905,6 +1905,16 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "isStableCoin": true
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/vvv.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
     }
   ]
 }

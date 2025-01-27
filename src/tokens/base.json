@@ -8,7 +8,10 @@
   },
   "tags": {},
   "logoURI": "",
-  "keywords": ["baseswap", "default"],
+  "keywords": [
+    "baseswap",
+    "default"
+  ],
   "tokens": [
     {
       "name": "BaseSwap Token",
@@ -982,6 +985,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SYMM.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x3eB2a8015dE1419a5089dAb37b0056F0fc24f821"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/vvv.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
     }
   ]
 }
