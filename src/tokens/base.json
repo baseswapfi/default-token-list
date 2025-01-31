@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "",
-  "keywords": [
-    "baseswap",
-    "default"
-  ],
+  "keywords": ["baseswap", "default"],
   "tokens": [
     {
       "name": "BaseSwap Token",
@@ -945,6 +942,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/TAOCAT.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x4FC190E4DC19c8fcA5e05534d664C0aC3Fa1AaC5"
+    },
+    {
+      "name": "Shark Cat",
+      "symbol": "SC",
+      "address": "0x49d803d2df2295185610f44961f2dcd40326f25c",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/sharkcat.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xbd5862AdBAAF81a30BE74717279ad7b39FB14dAE"
     },
     {
       "name": "OFFICIAL TRUMP",

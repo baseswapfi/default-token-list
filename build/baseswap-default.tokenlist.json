@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-01-20T20:56:37.712Z",
+  "timestamp": "2025-01-31T18:06:16.426Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 11
+    "patch": 13
   },
   "tags": {},
   "logoURI": "",
@@ -1107,6 +1107,16 @@
       "dexscreenPairAddress": "0xf57ed21D0fC31b6bC0ef88Fd383f38CcaE35aD1d"
     },
     {
+      "name": "Shark Cat",
+      "symbol": "SC",
+      "address": "0x49d803d2df2295185610f44961f2dcd40326f25c",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/sharkcat.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xbd5862AdBAAF81a30BE74717279ad7b39FB14dAE"
+    },
+    {
       "name": "Seamless",
       "symbol": "SEAM",
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
@@ -1344,6 +1354,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/void.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xB14e941D34d61ae251Ccc08AC15B8455AE9F60A5"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/vvv.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
     },
     {
       "name": "Wrapped Ether",
@@ -1905,16 +1925,6 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "isStableCoin": true
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/vvv.png",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x01784ef301d79e4b2df3a21ad9a536d4cf09a5ce"
     }
   ]
 }
