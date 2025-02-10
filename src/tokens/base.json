@@ -869,9 +869,19 @@
       "address": "0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/ZEEBU.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x6bC87443d501f7413F43Ce59428cE360034D64A6"
+    },
+    {
+      "name": "Veil",
+      "symbol": "VEIL",
+      "address": "0x767A739D1A152639e9Ea1D8c1BD55FDC5B217D7f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/VEIL.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x7f1A5B66ba3BB56C4b68CFC353a5e041c9763A4C"
     },
     {
       "name": "Game by Virtuals",

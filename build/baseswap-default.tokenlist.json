@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-01-31T18:06:16.426Z",
+  "timestamp": "2025-02-10T18:16:08.568Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 13
+    "patch": 14
   },
   "tags": {},
   "logoURI": "",
@@ -1336,6 +1336,16 @@
       "dexscreenPairAddress": "0xdE5Ff829fEF54d1BdEc957D9538A306f0EAD1368"
     },
     {
+      "name": "Veil",
+      "symbol": "VEIL",
+      "address": "0x767A739D1A152639e9Ea1D8c1BD55FDC5B217D7f",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/VEIL.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x7f1A5B66ba3BB56C4b68CFC353a5e041c9763A4C"
+    },
+    {
       "name": "Virtual Protocol",
       "symbol": "VIRTUAL",
       "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
@@ -1438,6 +1448,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/YIN.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xA05dB5EbEd9902A1A14a4787c7F60549D5336488"
+    },
+    {
+      "name": "Zeebu",
+      "symbol": "ZBU",
+      "address": "0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/ZEEBU.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x6bC87443d501f7413F43Ce59428cE360034D64A6"
     },
     {
       "name": "Ankr Staked ETH",
