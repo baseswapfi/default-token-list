@@ -864,6 +864,16 @@
       "dexscreenPairAddress": "0x5fc02b9aa76057e9970e814e149a194183d0a5f3"
     },
     {
+      "name": "Zeebu",
+      "symbol": "ZBU",
+      "address": "0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x6bC87443d501f7413F43Ce59428cE360034D64A6"
+    },
+    {
       "name": "Game by Virtuals",
       "symbol": "GAME",
       "address": "0x1C4CcA7C5DB003824208aDDA61Bd749e55F463a3",
