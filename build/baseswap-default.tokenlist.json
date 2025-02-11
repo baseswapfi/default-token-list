@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-02-10T18:16:08.568Z",
+  "timestamp": "2025-02-11T03:07:31.080Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 14
+    "patch": 15
   },
   "tags": {},
   "logoURI": "",
@@ -546,6 +546,16 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/28173/standard/wbtc-satoshi_D_3x.png?1696986732"
+    },
+    {
+      "name": "B3",
+      "symbol": "B3",
+      "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/B3.png",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xB099C658e784b41EE435d48a8eb67e8f27285C93"
     },
     {
       "name": "Golden Bailey",
