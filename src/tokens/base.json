@@ -994,6 +994,16 @@
       "dexscreenPairAddress": "0x3268d7eFA254E648Ffe968664E47Ca226E27CD04"
     },
     {
+      "name": "B3",
+      "symbol": "B3",
+      "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xB099C658e784b41EE435d48a8eb67e8f27285C93"
+    },
+    {
       "name": "Candle",
       "symbol": "CNDL",
       "address": "0xF184fCCE25573df753E52914E152eAE5441B6E1B",
