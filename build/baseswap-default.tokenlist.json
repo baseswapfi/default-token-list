@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-02-11T03:07:31.080Z",
+  "timestamp": "2025-02-12T01:09:42.216Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 15
+    "patch": 16
   },
   "tags": {},
   "logoURI": "",
@@ -949,6 +949,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/gnd.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x93DcFBE3174e5EFE65687ba5331626f44DC5e4dD"
+    },
+    {
+      "name": "H1DR4",
+      "symbol": "H1DR4",
+      "address": "0x83AbFC4bEEC2ecf12995005d751a42df691c09c1",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/H1DR4.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x90303be26C23d5C6f1ad264c193eb8AecFEe5c95"
     },
     {
       "name": "Javlis by Virtuals",

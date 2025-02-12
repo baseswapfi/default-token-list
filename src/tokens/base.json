@@ -999,7 +999,7 @@
       "address": "0x83AbFC4bEEC2ecf12995005d751a42df691c09c1",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/H1DR4.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x90303be26C23d5C6f1ad264c193eb8AecFEe5c95"
     },
