@@ -1004,6 +1004,16 @@
       "dexscreenPairAddress": "0x90303be26C23d5C6f1ad264c193eb8AecFEe5c95"
     },
     {
+      "name": "FROC",
+      "symbol": "FROC",
+      "address": "0x3C8cd0dB9a01EfA063a7760267b822A129bc7DCA",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": ""
+    },
+    {
       "name": "B3",
       "symbol": "B3",
       "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
