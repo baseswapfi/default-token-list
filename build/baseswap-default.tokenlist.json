@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-02-12T01:09:42.216Z",
+  "timestamp": "2025-02-24T17:23:54.191Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 16
+    "patch": 17
   },
   "tags": {},
   "logoURI": "",
@@ -890,6 +890,16 @@
       "tax": true,
       "useDexscreener": true,
       "dexscreenPairAddress": "0x29b3a7869E3662D00aaBD89A8ee74B2F703a6a66"
+    },
+    {
+      "name": "FROC",
+      "symbol": "FROC",
+      "address": "0x3C8cd0dB9a01EfA063a7760267b822A129bc7DCA",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FROC.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x74F8A8c18010659A456C8584e625996AB62c1B62"
     },
     {
       "name": "Fuego",

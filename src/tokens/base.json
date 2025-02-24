@@ -1009,9 +1009,9 @@
       "address": "0x3C8cd0dB9a01EfA063a7760267b822A129bc7DCA",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FROC.webp",
       "useDexscreener": true,
-      "dexscreenPairAddress": ""
+      "dexscreenPairAddress": "0x74F8A8c18010659A456C8584e625996AB62c1B62"
     },
     {
       "name": "B3",
