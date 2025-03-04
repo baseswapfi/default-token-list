@@ -1014,12 +1014,12 @@
       "dexscreenPairAddress": "0x74F8A8c18010659A456C8584e625996AB62c1B62"
     },
     {
-      "name": "LOKY",
+      "name": "Loky by Virtuals",
       "symbol": "LOKY",
       "address": "0x1A3e429D2D22149Cc61e0f539B112a227c844aa3",
       "chainId": 8453,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/LOKY.webp",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/LOKI.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xcD6efB9c75c79449f5A0D689c5528154D162762e"
     },

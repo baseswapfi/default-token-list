@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-02-24T17:23:54.191Z",
+  "timestamp": "2025-03-04T15:03:40.129Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 17
+    "patch": 18
   },
   "tags": {},
   "logoURI": "",
@@ -998,6 +998,16 @@
       "logoURI": "https://raw.githubusercontent.com/Joystream/design/refs/heads/master/logo/joystream/app%20icon/PNG/app_icon-1.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x63F33CAcdb31B48C8aCB00E5A893505ADB2757C1"
+    },
+    {
+      "name": "Loky by Virtuals",
+      "symbol": "LOKY",
+      "address": "0x1A3e429D2D22149Cc61e0f539B112a227c844aa3",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/LOKI.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xcD6efB9c75c79449f5A0D689c5528154D162762e"
     },
     {
       "name": "Luna by Virtuals",
