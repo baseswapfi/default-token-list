@@ -1500,6 +1500,16 @@
       "dexscreenPairAddress": "0x6bC87443d501f7413F43Ce59428cE360034D64A6"
     },
     {
+      "name": "EDGE",
+      "symbol": "EDGE",
+      "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/DEFINITIVE.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x594b83709464a83f37ac77e69ddd447a8a33c0ee"
+    },
+    {
       "name": "Ankr Staked ETH",
       "symbol": "ankrETH",
       "address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
