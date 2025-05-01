@@ -887,6 +887,16 @@
       "dexscreenPairAddress": "0x594b83709464a83f37ac77e69ddd447a8a33c0ee"
     },
     {
+      "name": "lsETH",
+      "symbol": "lsETH",
+      "address": "0xB29749498954A3A821ec37BdE86e386dF3cE30B6",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/LSETH.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x4796eda5A091B8Ca92EFA7d7Ee6f4De113A626FE"
+    },
+    {
       "name": "Veil",
       "symbol": "VEIL",
       "address": "0x767A739D1A152639e9Ea1D8c1BD55FDC5B217D7f",

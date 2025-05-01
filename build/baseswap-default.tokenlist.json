@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-03-04T15:03:40.129Z",
+  "timestamp": "2025-05-01T19:05:40.993Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 18
+    "patch": 20
   },
   "tags": {},
   "logoURI": "",
@@ -854,6 +854,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/a4c368189b68c7a2eacb5bdb8546d7e9ae18f617/images/eldorado.svg"
     },
     {
+      "name": "EDGE",
+      "symbol": "EDGE",
+      "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/DEFINITIVE.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x594b83709464a83f37ac77e69ddd447a8a33c0ee"
+    },
+    {
       "name": "EURC",
       "symbol": "EURC",
       "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
@@ -1008,6 +1018,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/LOKI.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xcD6efB9c75c79449f5A0D689c5528154D162762e"
+    },
+    {
+      "name": "lsETH",
+      "symbol": "lsETH",
+      "address": "0xB29749498954A3A821ec37BdE86e386dF3cE30B6",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/LSETH.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x4796eda5A091B8Ca92EFA7d7Ee6f4De113A626FE"
     },
     {
       "name": "Luna by Virtuals",
@@ -1498,16 +1518,6 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/ZEEBU.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x6bC87443d501f7413F43Ce59428cE360034D64A6"
-    },
-    {
-      "name": "EDGE",
-      "symbol": "EDGE",
-      "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
-      "chainId": 8453,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/DEFINITIVE.webp",
-      "useDexscreener": true,
-      "dexscreenPairAddress": "0x594b83709464a83f37ac77e69ddd447a8a33c0ee"
     },
     {
       "name": "Ankr Staked ETH",
