@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-05-01T19:05:40.993Z",
+  "timestamp": "2025-05-13T14:37:29.980Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 20
+    "patch": 21
   },
   "tags": {},
   "logoURI": "",
@@ -1089,6 +1089,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MUSIC.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0xCeF84D17513edE0Ab951F7BE9829E638a20BfbA4"
+    },
+    {
+      "name": "NOCT",
+      "symbol": "NOCT",
+      "address": "0x0d98f4D0807a4d80F178D4545558eb9360d31fdb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/NOCT.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xFe8cE74846CAbcA22615c82A7068956ECdB192a8"
     },
     {
       "name": "Odos",

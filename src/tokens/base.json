@@ -897,6 +897,16 @@
       "dexscreenPairAddress": "0x4796eda5A091B8Ca92EFA7d7Ee6f4De113A626FE"
     },
     {
+      "name": "NOCT",
+      "symbol": "NOCT",
+      "address": "0x0d98f4D0807a4d80F178D4545558eb9360d31fdb",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/NOCT.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xFe8cE74846CAbcA22615c82A7068956ECdB192a8"
+    },
+    {
       "name": "Veil",
       "symbol": "VEIL",
       "address": "0x767A739D1A152639e9Ea1D8c1BD55FDC5B217D7f",
