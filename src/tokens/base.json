@@ -897,6 +897,16 @@
       "dexscreenPairAddress": "0x4796eda5A091B8Ca92EFA7d7Ee6f4De113A626FE"
     },
     {
+      "name": "Ziggy",
+      "symbol": "ZIGGY",
+      "address": "0xd628dC2c4eC10feB07e5c8BF039F7C1C374d1B07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/ZIGGY.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x5c86740d7af0f574c8a2f0786aa34cb071a49df2"
+    },
+    {
       "name": "NOCT",
       "symbol": "NOCT",
       "address": "0x0d98f4D0807a4d80F178D4545558eb9360d31fdb",

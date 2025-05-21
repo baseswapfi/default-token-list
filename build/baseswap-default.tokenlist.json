@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-05-13T14:37:29.980Z",
+  "timestamp": "2025-05-21T16:52:22.527Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 21
+    "patch": 22
   },
   "tags": {},
   "logoURI": "",
@@ -1528,6 +1528,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/ZEEBU.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x6bC87443d501f7413F43Ce59428cE360034D64A6"
+    },
+    {
+      "name": "Ziggy",
+      "symbol": "ZIGGY",
+      "address": "0xd628dC2c4eC10feB07e5c8BF039F7C1C374d1B07",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/ZIGGY.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x5c86740d7af0f574c8a2f0786aa34cb071a49df2"
     },
     {
       "name": "Ankr Staked ETH",
