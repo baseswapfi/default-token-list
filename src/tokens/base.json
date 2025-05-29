@@ -907,6 +907,16 @@
       "dexscreenPairAddress": "0x5c86740d7af0f574c8a2f0786aa34cb071a49df2"
     },
     {
+      "name": "Mr. Puggles",
+      "symbol": "Puggles",
+      "address": "0x7fE0244A02630C7cf649c07339aCceCc6f2976b4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MRPUGGLES.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xDE95aF24cc24f9c82bE303eCa86cF02A8eB324BC"
+    },
+    {
       "name": "NOCT",
       "symbol": "NOCT",
       "address": "0x0d98f4D0807a4d80F178D4545558eb9360d31fdb",

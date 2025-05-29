@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-05-21T16:52:22.527Z",
+  "timestamp": "2025-05-29T21:18:22.425Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 22
+    "patch": 23
   },
   "tags": {},
   "logoURI": "",
@@ -1129,6 +1129,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/PONDHUB.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x096c104333Cb214e8c9C5eE49BEB36c62E9cf038"
+    },
+    {
+      "name": "Mr. Puggles",
+      "symbol": "Puggles",
+      "address": "0x7fE0244A02630C7cf649c07339aCceCc6f2976b4",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/MRPUGGLES.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xDE95aF24cc24f9c82bE303eCa86cF02A8eB324BC"
     },
     {
       "name": "RAFL",
