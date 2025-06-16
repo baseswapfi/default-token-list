@@ -917,6 +917,16 @@
       "dexscreenPairAddress": "0xDE95aF24cc24f9c82bE303eCa86cF02A8eB324BC"
     },
     {
+      "name": "Keeta",
+      "symbol": "KEETA",
+      "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/KEETA.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xd9eDC75a3a797Ec92Ca370F19051BAbebfb2edEe"
+    },
+    {
       "name": "NOCT",
       "symbol": "NOCT",
       "address": "0x0d98f4D0807a4d80F178D4545558eb9360d31fdb",

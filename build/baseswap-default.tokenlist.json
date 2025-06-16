@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-05-29T21:18:22.425Z",
+  "timestamp": "2025-06-16T17:17:25.224Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 23
+    "patch": 24
   },
   "tags": {},
   "logoURI": "",
@@ -1008,6 +1008,16 @@
       "logoURI": "https://raw.githubusercontent.com/Joystream/design/refs/heads/master/logo/joystream/app%20icon/PNG/app_icon-1.png",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x63F33CAcdb31B48C8aCB00E5A893505ADB2757C1"
+    },
+    {
+      "name": "Keeta",
+      "symbol": "KEETA",
+      "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/KEETA.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0xd9eDC75a3a797Ec92Ca370F19051BAbebfb2edEe"
     },
     {
       "name": "Loky by Virtuals",
