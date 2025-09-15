@@ -1,6 +1,6 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-06-16T17:17:25.224Z",
+  "timestamp": "2025-09-15T19:55:55.315Z",
   "version": {
     "major": 1,
     "minor": 8,
@@ -1273,6 +1273,16 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SKI.webp",
       "useDexscreener": true,
       "dexscreenPairAddress": "0x6d6391B9bD02Eefa00FA711fB1Cb828A6471d283"
+    },
+    {
+      "name": "SkiBonk",
+      "symbol": "SKIBONK",
+      "address": "0x05e3d6741E4EA10f73E2c7D7d5bC40BCD6c4e5a0",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/skibonk.webp",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "0x06C7865d478963A128CdBb1BCab7222e8Ae629D4"
     },
     {
       "name": "SweepCoin",
