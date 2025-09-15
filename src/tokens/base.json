@@ -1117,8 +1117,8 @@
       "dexscreenPairAddress": "0x3eB2a8015dE1419a5089dAb37b0056F0fc24f821"
     },
     {
-      "name": "SkiBonk",
-      "symbol": "SKIBONK",
+      "name": "SkiBonk+",
+      "symbol": "SkiBonk+",
       "address": "0x05e3d6741E4EA10f73E2c7D7d5bC40BCD6c4e5a0",
       "chainId": 8453,
       "decimals": 18,

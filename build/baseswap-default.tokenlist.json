@@ -1,10 +1,10 @@
 {
   "name": "Baseswapfi Default",
-  "timestamp": "2025-09-15T19:55:55.315Z",
+  "timestamp": "2025-09-15T19:57:02.179Z",
   "version": {
     "major": 1,
     "minor": 8,
-    "patch": 24
+    "patch": 25
   },
   "tags": {},
   "logoURI": "",
@@ -1275,8 +1275,8 @@
       "dexscreenPairAddress": "0x6d6391B9bD02Eefa00FA711fB1Cb828A6471d283"
     },
     {
-      "name": "SkiBonk",
-      "symbol": "SKIBONK",
+      "name": "SkiBonk+",
+      "symbol": "SkiBonk+",
       "address": "0x05e3d6741E4EA10f73E2c7D7d5bC40BCD6c4e5a0",
       "chainId": 8453,
       "decimals": 18,
